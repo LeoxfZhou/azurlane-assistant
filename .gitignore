@@ -1,0 +1,36 @@
+# Local saves and data transfers must never enter the public repository.
+/user_data/
+/cache/
+/exports/
+/.personal-sync/
+/build/
+/build.previous.*/
+/cmake-build-*/
+/data/input/
+/data/migration/
+/docs/WINDOWS_ALIGNMENT.txt
+
+# Third-party artwork and original documents stay local pending permission.
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.pdf
+*.xlsx
+*.xls
+*.zip
+*.tar
+*.gz
+
+.DS_Store
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+.env
+.env.*
+*.pem
+*.key
+*.log
+*.lock

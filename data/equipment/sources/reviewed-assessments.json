@@ -1,0 +1,1990 @@
+[
+  {
+    "equipmentId": "双联装138.6mm主炮Mle1934T0",
+    "grade": "S",
+    "reason": "第119期列为驱逐主炮首选，穿甲弹对多目标输出突出。",
+    "tags": [
+      "驱逐主炮",
+      "多目标"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联100mm98式高射炮改T0",
+    "grade": "A",
+    "reason": "第119期驱逐主炮第一档；按敌方护甲与舰船弹幕需求选择，不能仅比较面板。",
+    "tags": [
+      "驱逐主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "B-13 双联装130mm主炮B-2LMT3",
+    "grade": "A",
+    "reason": "第119期驱逐主炮第一档；按敌方护甲与舰船弹幕需求选择，不能仅比较面板。",
+    "tags": [
+      "驱逐主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装135mm主炮Model1938T3",
+    "grade": "A",
+    "reason": "第119期驱逐主炮第一档；按敌方护甲与舰船弹幕需求选择，不能仅比较面板。",
+    "tags": [
+      "驱逐主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装128mmSKC41高平两用炮改T0",
+    "grade": "A",
+    "reason": "第119期驱逐主炮第一档；按敌方护甲与舰船弹幕需求选择，不能仅比较面板。",
+    "tags": [
+      "驱逐主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装130mm主炮Model1936T0",
+    "grade": "A",
+    "reason": "第119期驱逐主炮第一档；按敌方护甲与舰船弹幕需求选择，不能仅比较面板。",
+    "tags": [
+      "驱逐主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "138.6mm单装炮Mle1929T3",
+    "grade": "B",
+    "reason": "第119期驱逐主炮第二档；有更强替代，现有库存仍可用于过渡或适配射速。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装114mm高平两用炮Mark IVT0",
+    "grade": "B",
+    "reason": "第119期驱逐主炮第二档；有更强替代，现有库存仍可用于过渡或适配射速。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "76mm火炮T3",
+    "grade": "B",
+    "reason": "第119期单独列出的高速炮，主要服务依赖开炮触发的舰船弹幕，不宜当泛用主炮。",
+    "tags": [
+      "调速",
+      "特定舰船"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "单装113mm高平两用炮Mark IVT0",
+    "grade": "B",
+    "reason": "第119期单独列出的高速炮，主要服务依赖开炮触发的舰船弹幕，不宜当泛用主炮。",
+    "tags": [
+      "调速",
+      "特定舰船"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装127mm高平两用炮Mk12T3",
+    "grade": "B",
+    "reason": "第119期列入新手可用主炮；不属于成熟仓库的优先选择，但不是完全无用途。",
+    "tags": [
+      "过渡"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装120mm主炮(皇家)T3",
+    "grade": "B",
+    "reason": "第119期列入新手可用主炮；不属于成熟仓库的优先选择，但不是完全无用途。",
+    "tags": [
+      "过渡"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "127mm连装炮改T0",
+    "grade": "B",
+    "reason": "第119期列入新手可用主炮；不属于成熟仓库的优先选择，但不是完全无用途。",
+    "tags": [
+      "过渡"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联100mm98式高射炮T3",
+    "grade": "B",
+    "reason": "第119期列入新手可用主炮；不属于成熟仓库的优先选择，但不是完全无用途。",
+    "tags": [
+      "过渡"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型B-1-P 三联装180mm主炮Model1932改T0",
+    "grade": "A",
+    "reason": "第119期轻巡主炮第一档，需按穿甲／高爆和舰船需求选择。",
+    "tags": [
+      "轻巡主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装SKC28式150mm主炮改T0",
+    "grade": "A",
+    "reason": "第119期轻巡主炮第一档，需按穿甲／高爆和舰船需求选择。",
+    "tags": [
+      "轻巡主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装TbtsKC42T式150mm主炮T0",
+    "grade": "A",
+    "reason": "第119期轻巡主炮第一档，需按穿甲／高爆和舰船需求选择。",
+    "tags": [
+      "轻巡主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装152mm主炮Mle1930(高爆弹)T0",
+    "grade": "A",
+    "reason": "第119期轻巡主炮第一档，需按穿甲／高爆和舰船需求选择。",
+    "tags": [
+      "轻巡主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装152mm主炮T0",
+    "grade": "B",
+    "reason": "第119期轻巡主炮次选，仍有适配护甲或作为替代的价值。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装152mm主炮Model1936T0",
+    "grade": "B",
+    "reason": "第119期轻巡主炮次选，仍有适配护甲或作为替代的价值。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装152mm主炮Model1934T3",
+    "grade": "B",
+    "reason": "第119期轻巡主炮次选，仍有适配护甲或作为替代的价值。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装TbtsKC36式150mm主炮T3",
+    "grade": "B",
+    "reason": "第119期轻巡主炮次选，仍有适配护甲或作为替代的价值。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装152mm高平两用炮Mk17T0",
+    "grade": "B",
+    "reason": "第119期轻巡主炮次选，仍有适配护甲或作为替代的价值。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型155mm三连装炮改T0",
+    "grade": "B",
+    "reason": "第119期轻巡主炮次选，仍有适配护甲或作为替代的价值。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型四联装152mm主炮T0",
+    "grade": "S",
+    "reason": "第119期轻巡主炮零档，属于泛用优先选择。",
+    "tags": [
+      "轻巡主炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装305mm主炮Mk8T0",
+    "grade": "S",
+    "reason": "第119期超巡主炮中优先推荐，兼顾泛用与对中甲。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "B-50 三联装305mm主炮MK-15T0",
+    "grade": "A",
+    "reason": "第119期超巡主炮推荐；分别受对甲与弹药类型影响，保留场景区别。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装305mmSKC39主炮(超巡用)T0",
+    "grade": "A",
+    "reason": "第119期超巡主炮推荐；分别受对甲与弹药类型影响，保留场景区别。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装310mm主炮T0",
+    "grade": "A",
+    "reason": "第119期超巡主炮推荐；分别受对甲与弹药类型影响，保留场景区别。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装203mmSKC主炮改T0",
+    "grade": "S",
+    "reason": "第119期重巡主炮零档；需要在穿甲、高爆以及敌方护甲之间选择。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装234mm主炮T0",
+    "grade": "S",
+    "reason": "第119期重巡主炮零档；需要在穿甲、高爆以及敌方护甲之间选择。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型203mm/55三连装主炮T0",
+    "grade": "S",
+    "reason": "第119期重巡主炮零档；需要在穿甲、高爆以及敌方护甲之间选择。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装203mmSKC主炮改T0",
+    "grade": "A",
+    "reason": "第119期重巡主炮前列推荐；各自射速、弹种和对甲适性不同。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装203mmSKC主炮T3",
+    "grade": "A",
+    "reason": "第119期重巡主炮前列推荐；各自射速、弹种和对甲适性不同。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装254mm主炮Model1939T0",
+    "grade": "A",
+    "reason": "第119期重巡主炮前列推荐；各自射速、弹种和对甲适性不同。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装240mm主炮T0",
+    "grade": "A",
+    "reason": "第119期重巡主炮前列推荐；各自射速、弹种和对甲适性不同。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装203mm主炮Mk15T0",
+    "grade": "A",
+    "reason": "第119期重巡主炮前列推荐；各自射速、弹种和对甲适性不同。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装203mmSKC主炮T0",
+    "grade": "B",
+    "reason": "第119期重巡主炮次选，属于已有装备的可用替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装203mmSKC主炮T2",
+    "grade": "B",
+    "reason": "第119期重巡主炮次选，属于已有装备的可用替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装234mm主炮T0",
+    "grade": "B",
+    "reason": "第119期重巡主炮次选，属于已有装备的可用替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联203mm主炮Model1927T3",
+    "grade": "B",
+    "reason": "第119期重巡主炮次选，属于已有装备的可用替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装203mm主炮Mle1931T3",
+    "grade": "B",
+    "reason": "第119期重巡主炮次选，属于已有装备的可用替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装203mm主炮Mark XT0",
+    "grade": "B",
+    "reason": "第119期重巡主炮次选，属于已有装备的可用替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装406mm主炮Mk.IIT0",
+    "grade": "S",
+    "reason": "第119期战列高爆主炮优先选择；仍需配合技能时间轴。",
+    "tags": [
+      "对轻甲",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装406mm主炮Mk7T0",
+    "grade": "S",
+    "reason": "第119期战列高爆主炮优先选择；仍需配合技能时间轴。",
+    "tags": [
+      "对轻甲",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装406mm主炮Model1940改T0",
+    "grade": "S",
+    "reason": "第119期战列穿甲主炮优先选择；对中重甲的取舍随炮型变化。",
+    "tags": [
+      "对中／重甲",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型四联装305mmSKC39主炮T0",
+    "grade": "S",
+    "reason": "第119期战列穿甲主炮优先选择；对中重甲的取舍随炮型变化。",
+    "tags": [
+      "对中／重甲",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装380mm主炮Mle1935T0",
+    "grade": "A",
+    "reason": "第119期列为战列穿甲备用选择，价值主要在射速和对轴适配。",
+    "tags": [
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装406mm/50主炮T0",
+    "grade": "A",
+    "reason": "第119期列为战列穿甲备用选择，价值主要在射速和对轴适配。",
+    "tags": [
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装406mm主炮Mk6T3",
+    "grade": "B",
+    "reason": "第119期列为战列备用主炮，可作替代，但不是优先投入资源的目标。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装381mm主炮T0",
+    "grade": "B",
+    "reason": "第119期列为战列备用主炮，可作替代，但不是优先投入资源的目标。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "B-37 三联装406mm主炮MK-1T3",
+    "grade": "C",
+    "reason": "第119期主要保留调速备用用途，泛用优势有限。",
+    "tags": [
+      "调速备用"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装406mm主炮Mk4T0",
+    "grade": "C",
+    "reason": "第119期主要保留调速备用用途，泛用优势有限。",
+    "tags": [
+      "调速备用"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装457mm主炮MkAT0",
+    "grade": "A",
+    "reason": "第119期快炮备选，适用于大世界清杂、预装填或特定舰船配置。",
+    "tags": [
+      "快炮",
+      "特定场景"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "410mm连装炮改T0",
+    "grade": "A",
+    "reason": "第119期快炮备选，适用于大世界清杂、预装填或特定舰船配置。",
+    "tags": [
+      "快炮",
+      "特定场景"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "460mm三连装炮T0",
+    "grade": "B",
+    "reason": "第119期列出慢轴特例；不应因冷却较长而直接视为无用。",
+    "tags": [
+      "慢轴",
+      "武藏适配"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型三联装406mm主炮Mk6改T0",
+    "grade": "B",
+    "reason": "第119期列出慢轴特例；不应因冷却较长而直接视为无用。",
+    "tags": [
+      "慢轴",
+      "武藏适配"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "四联装533mm磁性鱼雷改T0",
+    "grade": "S",
+    "reason": "第119期自律水面鱼雷零档，适合泛用。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "四联装533mm磁性鱼雷T3",
+    "grade": "A",
+    "reason": "第119期自律水面鱼雷第一档，常用且可作为优先替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "533mm鱼雷Mk35(4连发射)T0",
+    "grade": "B",
+    "reason": "第119期自律鱼雷次选，射速与雷型不同，可按场景替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "五联装533mm磁性鱼雷T3",
+    "grade": "B",
+    "reason": "第119期自律鱼雷次选，射速与雷型不同，可按场景替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装533mm磁性鱼雷T3",
+    "grade": "B",
+    "reason": "第119期自律鱼雷次选，射速与雷型不同，可按场景替代。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "五联装610mm鱼雷T0",
+    "grade": "A",
+    "reason": "第119期手操鱼雷优先选择，贴近目标手动发射的价值高于泛用自律。",
+    "tags": [
+      "手操",
+      "EX"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "五联装533mm鱼雷Mark IXT0",
+    "grade": "B",
+    "reason": "第119期列出手操或对轻甲特例；不按泛用自律鱼雷理解。",
+    "tags": [
+      "手操",
+      "特化"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "四联装550mm鱼雷改（弹药调整）T0",
+    "grade": "B",
+    "reason": "第119期列出手操或对轻甲特例；不按泛用自律鱼雷理解。",
+    "tags": [
+      "手操",
+      "特化"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联装137mm高平两用炮Mk1T0",
+    "grade": "A",
+    "reason": "第119期列出高单轮伤害的驱逐副炮选择，也有演习用途。",
+    "tags": [
+      "副炮",
+      "演习"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装128mmSKC41高平两用炮T3",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装127mm副炮T0",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装152mm主炮Mk16T0",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "B-38 三联装152mm主炮MK-5T3",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "155mm三连装炮T3",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "三联装152mm主炮(皇家)T3",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装152mm主炮T3",
+    "grade": "B",
+    "reason": "第119期战列副炮备用选择；可按点燃、射程和散射需求使用。",
+    "tags": [
+      "战列副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装76mmRF火炮Mk37T0",
+    "grade": "S",
+    "reason": "第119期防空炮零档，同时提供命中；属于泛用优先选择。",
+    "tags": [
+      "防空",
+      "命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装57mmL/60博福斯对空机炮Mle1951T0",
+    "grade": "A",
+    "reason": "第119期防空炮第一档；有强化投入的现成装备仍具价值。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装113mm高射炮T3",
+    "grade": "A",
+    "reason": "第119期防空炮第一档；有强化投入的现成装备仍具价值。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "六联装40mm博福斯对空机炮T0",
+    "grade": "B",
+    "reason": "第119期防空炮第二档；可用替代，不建议据此优先追加强化投入。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型双联90mm高角炮Model1939T0",
+    "grade": "B",
+    "reason": "第119期防空炮第二档；可用替代，不建议据此优先追加强化投入。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联105mmSKC高炮改进型T0",
+    "grade": "B",
+    "reason": "第119期防空炮第二档；可用替代，不建议据此优先追加强化投入。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "100mm连装高炮T0",
+    "grade": "B",
+    "reason": "第119期防空炮第二档；可用替代，不建议据此优先追加强化投入。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联105mmSKC高炮T3",
+    "grade": "C",
+    "reason": "第119期防空炮第三档；目前主要是资源不足时的过渡用途。",
+    "tags": [
+      "过渡防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "127mm连装高角炮改T0",
+    "grade": "C",
+    "reason": "第119期防空炮第三档；目前主要是资源不足时的过渡用途。",
+    "tags": [
+      "过渡防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "四联40mm博福斯对空机炮T3",
+    "grade": "C",
+    "reason": "第119期防空炮第三档；目前主要是资源不足时的过渡用途。",
+    "tags": [
+      "过渡防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装113mm高射炮T2",
+    "grade": "C",
+    "reason": "第119期防空炮第三档；目前主要是资源不足时的过渡用途。",
+    "tags": [
+      "过渡防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "120mm高射炮Mark VIIIT0",
+    "grade": "C",
+    "reason": "第119期防空炮第三档；目前主要是资源不足时的过渡用途。",
+    "tags": [
+      "过渡防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型55mm Gerät 58防空炮T0",
+    "grade": "C",
+    "reason": "第119期仅保留防空调速用途，通常只有特定低装填配置需要。",
+    "tags": [
+      "防空调速"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装40mm博福斯STAAGT0",
+    "grade": "A",
+    "reason": "第119期命中防空炮特例，适合以命中为主要目标的配置。",
+    "tags": [
+      "命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装40mm博福斯海兹梅耶T0",
+    "grade": "B",
+    "reason": "第119期命中防空炮替代选择，优先级低于彩76与STAAG。",
+    "tags": [
+      "命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装134mm高炮T0",
+    "grade": "B",
+    "reason": "第119期加炮击防空炮特例；适合防空压力允许时补输出。",
+    "tags": [
+      "炮击",
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装134mm高炮(定时引信)T0",
+    "grade": "B",
+    "reason": "第119期加炮击防空炮特例；适合防空压力允许时补输出。",
+    "tags": [
+      "炮击",
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "80mm98式连装高炮T0",
+    "grade": "B",
+    "reason": "第119期加炮击防空炮特例；适合防空压力允许时补输出。",
+    "tags": [
+      "炮击",
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "九三式纯氧鱼雷T3",
+    "grade": "S",
+    "reason": "第119期前排雷击输出设备优先选择，具体收益随舰船雷击占比变化。",
+    "tags": [
+      "雷击"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "533mm磁性鱼雷T3",
+    "grade": "B",
+    "reason": "第119期列入雷击设备与演习先手搭配，主要优化首轮鱼雷。",
+    "tags": [
+      "首轮鱼雷",
+      "演习"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "嘻嘻加班君T0",
+    "grade": "B",
+    "reason": "第119期列入炮驱或巡洋输出设备；需先满足生存需求，并按命中环境与舰种选择。",
+    "tags": [
+      "前排输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "速运高速无人机T0",
+    "grade": "B",
+    "reason": "第119期列入炮驱或巡洋输出设备；需先满足生存需求，并按命中环境与舰种选择。",
+    "tags": [
+      "前排输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "泡云弹车T0",
+    "grade": "B",
+    "reason": "第119期列入炮驱或巡洋输出设备；需先满足生存需求，并按命中环境与舰种选择。",
+    "tags": [
+      "前排输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "忍术卷轴T0",
+    "grade": "B",
+    "reason": "第119期列入炮驱或巡洋输出设备；需先满足生存需求，并按命中环境与舰种选择。",
+    "tags": [
+      "前排输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "征战巨坦T0",
+    "grade": "B",
+    "reason": "第119期列入炮驱或巡洋输出设备；需先满足生存需求，并按命中环境与舰种选择。",
+    "tags": [
+      "前排输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "机密文件·极地海峡T0",
+    "grade": "C",
+    "reason": "第119期中的前排输出特例；分别侧重低机动环境或装填调速，泛用提升有限。",
+    "tags": [
+      "低耗／调速"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "链式装弹机T3",
+    "grade": "C",
+    "reason": "第119期中的前排输出特例；分别侧重低机动环境或装填调速，泛用提升有限。",
+    "tags": [
+      "低耗／调速"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "上游-1甲T0",
+    "grade": "S",
+    "reason": "第119期导驱主武器优先推荐，仅适用于能装备导弹的舰船。",
+    "tags": [
+      "导驱"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "上游-1T0",
+    "grade": "B",
+    "reason": "第119期导驱主武器替代选择，存在上位型号。",
+    "tags": [
+      "导驱"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "四神之印T0",
+    "grade": "A",
+    "reason": "第119期导驱专用搭配，装备价值取决于适用舰船。",
+    "tags": [
+      "导驱"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "小王冠T0",
+    "grade": "B",
+    "reason": "第119期 J 级相关生存设备特例，按舰船使用。",
+    "tags": [
+      "J级"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "维修工具T3",
+    "grade": "A",
+    "reason": "第119期常用前排生存设备，适合补血量与续航；部分限定设备可替代。",
+    "tags": [
+      "生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "异世界冒险终端T0",
+    "grade": "S",
+    "reason": "第119期兼顾耐久与输出的设备中优先推荐，但仍需按舰种和输出机制适配。",
+    "tags": [
+      "耐久＋输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "煌翼炎龙T0",
+    "grade": "S",
+    "reason": "第119期兼顾耐久与输出的设备中优先推荐，但仍需按舰种和输出机制适配。",
+    "tags": [
+      "耐久＋输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "「Cyanidin」应援毛巾T0",
+    "grade": "S",
+    "reason": "第119期前排生存设备中优先推荐，需结合强化等级与战斗长度比较。",
+    "tags": [
+      "生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "对抗模拟指令T0",
+    "grade": "S",
+    "reason": "第119期前排生存设备中优先推荐，需结合强化等级与战斗长度比较。",
+    "tags": [
+      "生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "咻咻料理君T0",
+    "grade": "A",
+    "reason": "第119期常用生存设备前列，联动来源与强度分开标记。",
+    "tags": [
+      "生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "「Alizarin」应援毛巾T0",
+    "grade": "A",
+    "reason": "第119期列入耐久兼输出设备推荐，适合相应输出场景。",
+    "tags": [
+      "耐久＋输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "通天之匣T0",
+    "grade": "A",
+    "reason": "第119期列入耐久兼输出设备推荐，适合相应输出场景。",
+    "tags": [
+      "耐久＋输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "结界通行凭证T0",
+    "grade": "B",
+    "reason": "第119期列出特定敌人或场景下的设备，不能视为无条件泛用增伤。",
+    "tags": [
+      "特定敌人"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "作战报告：AFT0",
+    "grade": "B",
+    "reason": "第119期列出特定敌人或场景下的设备，不能视为无条件泛用增伤。",
+    "tags": [
+      "特定敌人"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "阿尔比恩的报告书T0",
+    "grade": "B",
+    "reason": "第119期列出特定敌人或场景下的设备，不能视为无条件泛用增伤。",
+    "tags": [
+      "特定敌人"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "FuMO 25T0",
+    "grade": "A",
+    "reason": "第119期轻重巡输出设备优先推荐，前提是仍能满足生存需求。",
+    "tags": [
+      "巡洋输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "火控雷达T3",
+    "grade": "B",
+    "reason": "第119期重巡输出替代选择，命中环境与可装备舰种影响收益。",
+    "tags": [
+      "重巡输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "戴拿爆能加农T0",
+    "grade": "B",
+    "reason": "第119期重巡输出替代选择，命中环境与可装备舰种影响收益。",
+    "tags": [
+      "重巡输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "嘭嘭速生君T0",
+    "grade": "B",
+    "reason": "第119期重巡输出替代选择，命中环境与可装备舰种影响收益。",
+    "tags": [
+      "重巡输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "SG雷达T3",
+    "grade": "B",
+    "reason": "第119期部分前排场景可用，航母不可装备，不直接套用同类命中设备结论。",
+    "tags": [
+      "命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "高性能舵机T0",
+    "grade": "S",
+    "reason": "第119期巡洋生存优先设备；同舰装备限制不等于账号唯一。",
+    "tags": [
+      "生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "小海狸中队队徽T0",
+    "grade": "A",
+    "reason": "第119期多舰种生存与航速用途，账号唯一，独立展示。",
+    "tags": [
+      "航速",
+      "唯一"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "结晶冰精T0",
+    "grade": "A",
+    "reason": "第119期联动生存或复合设备推荐，按效果和适用舰船使用。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "古立特圣剑T0",
+    "grade": "A",
+    "reason": "第119期联动生存或复合设备推荐，按效果和适用舰船使用。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "引力舞鞋T0",
+    "grade": "B",
+    "reason": "第119期列出耐久或闪避替代设备，泛用时仍需与维修工具、舵机等比较。",
+    "tags": [
+      "生存替代"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "星云舞裙T0",
+    "grade": "B",
+    "reason": "第119期列出耐久或闪避替代设备，泛用时仍需与维修工具、舵机等比较。",
+    "tags": [
+      "生存替代"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "海魂迷彩T0",
+    "grade": "B",
+    "reason": "第119期列出耐久或闪避替代设备，泛用时仍需与维修工具、舵机等比较。",
+    "tags": [
+      "生存替代"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "刺绣锦囊T0",
+    "grade": "B",
+    "reason": "第119期列出耐久或闪避替代设备，泛用时仍需与维修工具、舵机等比较。",
+    "tags": [
+      "生存替代"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "梅之语T0",
+    "grade": "B",
+    "reason": "第119期列出耐久或闪避替代设备，泛用时仍需与维修工具、舵机等比较。",
+    "tags": [
+      "生存替代"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "侦察报告·纽约近海T0",
+    "grade": "B",
+    "reason": "第119期重巡输出设备中的场景选择，避免忽略适用敌人限制。",
+    "tags": [
+      "特定敌人"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "海军部火控台T0",
+    "grade": "S",
+    "reason": "第119期战列输出设备优先推荐，首轮准备时间与命中／散布效果重要。",
+    "tags": [
+      "战列输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "高性能火控雷达T0",
+    "grade": "S",
+    "reason": "第119期战列输出设备优先推荐，首轮准备时间与命中／散布效果重要。",
+    "tags": [
+      "战列输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "一式穿甲弹T0",
+    "grade": "A",
+    "reason": "第119期战列常用输出设备，提供暴击伤害与命中。",
+    "tags": [
+      "战列输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "超重弹T0",
+    "grade": "B",
+    "reason": "第119期战列输出替代或特化选择；需考虑舰船与暴击配装。",
+    "tags": [
+      "战列输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "6CRH穿甲弹T0",
+    "grade": "B",
+    "reason": "第119期战列输出替代或特化选择；需考虑舰船与暴击配装。",
+    "tags": [
+      "战列输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "白鹰精英损管T0",
+    "grade": "A",
+    "reason": "第119期后排生存设备特例，可应对暴毙风险；账号唯一。",
+    "tags": [
+      "后排生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "高性能对空雷达T0",
+    "grade": "A",
+    "reason": "第119期高防空压力场景下的功能性设备。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "嘘嘘隐身君T0",
+    "grade": "B",
+    "reason": "第119期高难或演习特定生存用途，不能把联动装备混入普通清理范围。",
+    "tags": [
+      "生存",
+      "演习"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "灭火器T3",
+    "grade": "B",
+    "reason": "第119期减点燃或减雷伤的功能性设备，价值依敌方伤害结构变化。",
+    "tags": [
+      "生存特化"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "防鱼雷隔舱T3",
+    "grade": "B",
+    "reason": "第119期减点燃或减雷伤的功能性设备，价值依敌方伤害结构变化。",
+    "tags": [
+      "生存特化"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "刺猬弹T0",
+    "grade": "S",
+    "reason": "第119期先锋反潜优先装备，适用于需要反潜的主线。",
+    "tags": [
+      "反潜"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "改良深弹投射器T3",
+    "grade": "B",
+    "reason": "第119期先锋反潜替代选择。",
+    "tags": [
+      "反潜"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "塘鹅T0",
+    "grade": "A",
+    "reason": "第119期后排反潜推荐，只有确实需要并能携带反潜机时才发挥作用。",
+    "tags": [
+      "后排反潜"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "TBM复仇者(VT-51中队)T0",
+    "grade": "A",
+    "reason": "第119期后排反潜推荐，只有确实需要并能携带反潜机时才发挥作用。",
+    "tags": [
+      "后排反潜"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "VH装甲钢板T0",
+    "grade": "B",
+    "reason": "第119期功能性装备，价值取决于装甲类型、适用舰船或运输舰需求。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "“九四式40厘米炮”部件T0",
+    "grade": "B",
+    "reason": "第119期功能性装备，价值取决于装甲类型、适用舰船或运输舰需求。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "戊型水上机T0",
+    "grade": "B",
+    "reason": "第119期功能性装备，价值取决于装甲类型、适用舰船或运输舰需求。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "兵装补给(鱼雷)T0",
+    "grade": "B",
+    "reason": "第119期功能性装备，价值取决于装甲类型、适用舰船或运输舰需求。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "兵装补给(中小口径武器)T0",
+    "grade": "B",
+    "reason": "第119期功能性装备，价值取决于装甲类型、适用舰船或运输舰需求。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "兵装补给(航空)T0",
+    "grade": "B",
+    "reason": "第119期功能性装备，价值取决于装甲类型、适用舰船或运输舰需求。",
+    "tags": [
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作舰载型La-9T0",
+    "grade": "S",
+    "reason": "第119期对海火箭战斗机前列，对重甲与综合输出突出；不能承担通常航空防御。",
+    "tags": [
+      "对海火箭",
+      "无对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "F6F地狱猫(HVAR搭载型)T0",
+    "grade": "A",
+    "reason": "第119期对海火箭战斗机推荐，按轻／中／重甲选择。",
+    "tags": [
+      "对海火箭",
+      "无对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作舰载型BF-109GT0",
+    "grade": "A",
+    "reason": "第119期对海火箭战斗机推荐，按轻／中／重甲选择。",
+    "tags": [
+      "对海火箭",
+      "无对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作舰载型FW-190 A-6/R6T0",
+    "grade": "A",
+    "reason": "第119期对海火箭战斗机推荐，按轻／中／重甲选择。",
+    "tags": [
+      "对海火箭",
+      "无对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "F4U(VF-17“海盗”中队)T0",
+    "grade": "A",
+    "reason": "第119期带炸弹战斗机推荐，兼顾对海与航空防御。",
+    "tags": [
+      "对海／对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型XF5U飞碟T0",
+    "grade": "A",
+    "reason": "第119期带炸弹战斗机推荐，兼顾对海与航空防御。",
+    "tags": [
+      "对海／对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "F7F虎猫T0",
+    "grade": "A",
+    "reason": "第119期带炸弹战斗机推荐，兼顾对海与航空防御。",
+    "tags": [
+      "对海／对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "海大黄蜂T0",
+    "grade": "A",
+    "reason": "第119期带炸弹战斗机推荐，兼顾对海与航空防御。",
+    "tags": [
+      "对海／对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型紫电改四T0",
+    "grade": "B",
+    "reason": "第119期战斗机次选，保留常规炸弹与防空用途。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "紫电改二T0",
+    "grade": "B",
+    "reason": "第119期战斗机次选，保留常规炸弹与防空用途。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "F6F地狱猫T3",
+    "grade": "B",
+    "reason": "第119期战斗机次选，保留常规炸弹与防空用途。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "烈风T3",
+    "grade": "C",
+    "reason": "第119期战斗机较低优先替代，已有更好选择时使用机会少。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "海毒牙T3",
+    "grade": "C",
+    "reason": "第119期战斗机较低优先替代，已有更好选择时使用机会少。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "海怒T0",
+    "grade": "C",
+    "reason": "第119期战斗机较低优先替代，已有更好选择时使用机会少。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "F4U海盗T3",
+    "grade": "C",
+    "reason": "第119期战斗机较低优先替代，已有更好选择时使用机会少。",
+    "tags": [],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "XF5F天箭T0",
+    "grade": "B",
+    "reason": "第119期射速或对空特例，不能仅因对海输出低就判断无用。",
+    "tags": [
+      "调速",
+      "对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "Me-155A舰载战斗机T3",
+    "grade": "B",
+    "reason": "第119期射速或对空特例，不能仅因对海输出低就判断无用。",
+    "tags": [
+      "调速",
+      "对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "F8F熊猫T0",
+    "grade": "B",
+    "reason": "第119期射速或对空特例，不能仅因对海输出低就判断无用。",
+    "tags": [
+      "调速",
+      "对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作舰载型FW-190 G-3/R1T0",
+    "grade": "S",
+    "reason": "第119期支援编队防空优先选择，尤其适合15图航空压力场景。",
+    "tags": [
+      "15图支援",
+      "对空"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作舰载型FW-190 A-5T0",
+    "grade": "B",
+    "reason": "第119期防空替代和调速选择，优先级低于 G-3/R1。",
+    "tags": [
+      "对空",
+      "调速"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型彩云(舰攻型)T0",
+    "grade": "A",
+    "reason": "第119期集束雷机推荐，选择主要由对轴与敌人移动情况决定。",
+    "tags": [
+      "集束雷",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "Ju-87 D-4T0",
+    "grade": "A",
+    "reason": "第119期集束雷机推荐，选择主要由对轴与敌人移动情况决定。",
+    "tags": [
+      "集束雷",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "流星T3",
+    "grade": "A",
+    "reason": "第119期集束雷机推荐，选择主要由对轴与敌人移动情况决定。",
+    "tags": [
+      "集束雷",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型VIT-2（模式调整）T0",
+    "grade": "A",
+    "reason": "第119期集束雷机推荐，选择主要由对轴与敌人移动情况决定。",
+    "tags": [
+      "集束雷",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "飞龙T0",
+    "grade": "S",
+    "reason": "第119期平行雷机前列，兼顾对海输出与防空。",
+    "tags": [
+      "平行雷",
+      "泛用"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "BR.810T0",
+    "grade": "A",
+    "reason": "第119期平行雷机次选，可用于常规输出或特定配装。",
+    "tags": [
+      "平行雷"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型旗鱼T0",
+    "grade": "A",
+    "reason": "第119期平行雷机次选，可用于常规输出或特定配装。",
+    "tags": [
+      "平行雷"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "AD-1天袭者T0",
+    "grade": "S",
+    "reason": "第119期轰炸机优先推荐，分别按重甲／轻中甲及时间轴选择。",
+    "tags": [
+      "轰炸机"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作舰载型天雷T0",
+    "grade": "S",
+    "reason": "第119期轰炸机优先推荐，分别按重甲／轻中甲及时间轴选择。",
+    "tags": [
+      "轰炸机"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "实验型XSB3C-1T0",
+    "grade": "A",
+    "reason": "第119期高输出轰炸机常用选择；紫色型号也有明确价值。",
+    "tags": [
+      "轰炸机"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "SB2C地狱俯冲者T3",
+    "grade": "A",
+    "reason": "第119期高输出轰炸机常用选择；紫色型号也有明确价值。",
+    "tags": [
+      "轰炸机"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "彗星一二型甲T0",
+    "grade": "B",
+    "reason": "第119期轰炸机调速特例，不能按单轮伤害简单淘汰。",
+    "tags": [
+      "调速"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "试作型F8F熊猫（浮筒型）T0",
+    "grade": "A",
+    "reason": "第119期水上机输出优先选择，限可装备舰种。",
+    "tags": [
+      "水上机"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "彗星二一型T0",
+    "grade": "B",
+    "reason": "第119期水上机／航战特例，按舰种和航空防御需求使用。",
+    "tags": [
+      "航战／航巡"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "强风T0",
+    "grade": "B",
+    "reason": "第119期水上机／航战特例，按舰种和航空防御需求使用。",
+    "tags": [
+      "航战／航巡"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "液压弹射装置T3",
+    "grade": "A",
+    "reason": "第119期航空输出设备推荐，按是否需要耐久与限定获取区别使用。",
+    "tags": [
+      "航母输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "开拓者奖章T0",
+    "grade": "A",
+    "reason": "第119期航空输出设备推荐，按是否需要耐久与限定获取区别使用。",
+    "tags": [
+      "航母输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "万灵药剂T0",
+    "grade": "A",
+    "reason": "第119期航空输出设备推荐，按是否需要耐久与限定获取区别使用。",
+    "tags": [
+      "航母输出"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "归航信标T0",
+    "grade": "A",
+    "reason": "第119期航母调速与输出常用设备，时间轴需求决定是否携带。",
+    "tags": [
+      "航母调速"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "天使之羽T0",
+    "grade": "B",
+    "reason": "第119期航母输出或防空场景替代设备。",
+    "tags": [
+      "航母"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "“妖精魔法”海报T0",
+    "grade": "B",
+    "reason": "第119期航母输出或防空场景替代设备。",
+    "tags": [
+      "航母"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "嗡嗡倾听君T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "活力之歌T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "炽烈之歌T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "心之钥匙T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "闪耀之歌T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "华盛顿海军条约T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "随机单词生成器T0",
+    "grade": "C",
+    "reason": "第119期航母命中设备特例，主要面向演习；常规 PVE 通常优先航空或调速设备。",
+    "tags": [
+      "演习",
+      "航母命中"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "航空整备小组T0",
+    "grade": "B",
+    "reason": "第119期延长飞机存在时间等特定协作用途，非普遍增伤设备。",
+    "tags": [
+      "协作",
+      "特殊配装"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用Mark 20 S鱼雷-彼得T0",
+    "grade": "S",
+    "reason": "第119期潜艇鱼雷优先推荐，兼顾泛用与时间轴。",
+    "tags": [
+      "潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用G7e声导鱼雷T3",
+    "grade": "A",
+    "reason": "第119期潜艇鱼雷常用或对轴特例；95改尤其依赖潜艇配置。",
+    "tags": [
+      "潜艇",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用95式纯氧鱼雷改T0",
+    "grade": "A",
+    "reason": "第119期潜艇鱼雷常用或对轴特例；95改尤其依赖潜艇配置。",
+    "tags": [
+      "潜艇",
+      "对轴"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用Mark 28鱼雷T0",
+    "grade": "B",
+    "reason": "第119期潜艇鱼雷第二档，已有库存可以作为替代。",
+    "tags": [
+      "潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用Mark 16鱼雷T2",
+    "grade": "B",
+    "reason": "第119期潜艇鱼雷第二档，已有库存可以作为替代。",
+    "tags": [
+      "潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用95式纯氧鱼雷T3",
+    "grade": "B",
+    "reason": "第119期潜艇鱼雷第二档，已有库存可以作为替代。",
+    "tags": [
+      "潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "潜艇用G7e声导鱼雷T2",
+    "grade": "C",
+    "reason": "第119期潜艇鱼雷过渡型号，与金色 T3 必须分开评价。",
+    "tags": [
+      "过渡潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装203mm主炮Mle1924(潜艇用)T0",
+    "grade": "B",
+    "reason": "第119期絮库夫专用主炮，舰种限制显著。",
+    "tags": [
+      "絮库夫"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "艇壳改良设计案T2",
+    "grade": "A",
+    "reason": "第119期潜艇常用设备，按射程、氧气和鱼雷轮数需求选择。",
+    "tags": [
+      "潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "改良型水下进气管T0",
+    "grade": "A",
+    "reason": "第119期潜艇常用设备，按射程、氧气和鱼雷轮数需求选择。",
+    "tags": [
+      "潜艇"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "珍珠之泪T0",
+    "grade": "A",
+    "reason": "第119期演习献祭回复特例，也属于账号唯一装备。",
+    "tags": [
+      "演习",
+      "唯一"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "改良锅炉T3",
+    "grade": "B",
+    "reason": "第119期航速及演习拉扯特例，泛用性不等于实际特殊用途价值。",
+    "tags": [
+      "航速",
+      "演习"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "智慧模块T0",
+    "grade": "B",
+    "reason": "第119期航速及演习拉扯特例，泛用性不等于实际特殊用途价值。",
+    "tags": [
+      "航速",
+      "演习"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "涡旋风精T0",
+    "grade": "B",
+    "reason": "第119期航速及演习拉扯特例，泛用性不等于实际特殊用途价值。",
+    "tags": [
+      "航速",
+      "演习"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "旧式半加农炮T3",
+    "grade": "A",
+    "reason": "第119期风帆舰推荐主炮或输出设备，限适用舰种。",
+    "tags": [
+      "风帆"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "12磅长管炮T3",
+    "grade": "A",
+    "reason": "第119期风帆舰推荐主炮或输出设备，限适用舰种。",
+    "tags": [
+      "风帆"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "球形实心弹T0",
+    "grade": "A",
+    "reason": "第119期风帆舰推荐主炮或输出设备，限适用舰种。",
+    "tags": [
+      "风帆"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "旧式重火炮T3",
+    "grade": "B",
+    "reason": "第119期风帆副炮推荐，作用范围较窄。",
+    "tags": [
+      "风帆副炮"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "葡萄弹T0",
+    "grade": "C",
+    "reason": "与实心弹存在装备互斥，按第118期说明和第119期低优先展示整理为低优先备选。",
+    "tags": [
+      "风帆",
+      "互斥"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "帆索组件T0",
+    "grade": "A",
+    "reason": "第119期风帆舰生存设备推荐。",
+    "tags": [
+      "风帆生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "果蔬补给品T0",
+    "grade": "A",
+    "reason": "第119期风帆舰生存设备推荐。",
+    "tags": [
+      "风帆生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "珍贵货物箱T0",
+    "grade": "A",
+    "reason": "第119期风帆舰生存设备推荐。",
+    "tags": [
+      "风帆生存"
+    ],
+    "sourceId": "rank119"
+  },
+  {
+    "equipmentId": "双联装76mmRF火炮Mk37T0",
+    "grade": "S",
+    "reason": "第118期已将彩76放在防空与命中推荐前列。",
+    "tags": [
+      "防空",
+      "命中"
+    ],
+    "sourceId": "rank118"
+  },
+  {
+    "equipmentId": "双联装57mmL/60博福斯对空机炮Mle1951T0",
+    "grade": "A",
+    "reason": "第118期仍列第一档，已有强化投入不应仅因新装备出现就否定价值。",
+    "tags": [
+      "防空"
+    ],
+    "sourceId": "rank118"
+  },
+  {
+    "equipmentId": "嗡嗡倾听君T0",
+    "grade": "C",
+    "reason": "第118期说明此类航母命中设备主要适用于演习，普通 PVE 不优先。",
+    "tags": [
+      "演习"
+    ],
+    "sourceId": "rank118"
+  }
+]

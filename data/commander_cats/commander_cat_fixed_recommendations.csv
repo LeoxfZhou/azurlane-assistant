@@ -1,0 +1,14 @@
+recommendation_id,category,cat_id,slot,scenario,reason
+battleship_drake,战列,drake,either,战列、战巡、航战或风帆M编队,固定技能提高炮击；存在风帆舰时还能降低旗舰受到的伤害
+battleship_teach,战列,teach,either,与主力舰队交战；包含安妮女王复仇号时额外触发特殊弹幕,固定技能提高战列系命中和炮击
+battleship_every,战列,every,commander,舰队存在任意风帆舰,司令位提高全队炮击并提供先锋减伤和低血量恢复
+heavy_cruiser_kidd,重巡,kidd,either,轻巡、重巡、超巡或风帆V编队,固定技能提高命中；存在风帆舰时提供减伤
+heavy_cruiser_every,重巡,every,commander,舰队存在任意风帆舰,司令位提高全队炮击并提供先锋减伤和低血量恢复
+heavy_cruiser_bonny,重巡,bonny,staff,需要先锋炮击与生存辅助,参谋位提高先锋炮击并提供低血量恢复
+light_cruiser_kidd,轻巡,kidd,either,轻巡、重巡、超巡或风帆V编队,固定技能提高命中；存在风帆舰时提供减伤
+light_cruiser_every,轻巡,every,commander,舰队存在任意风帆舰,司令位提高全队炮击并提供先锋减伤和低血量恢复
+light_cruiser_bonny,轻巡,bonny,staff,需要先锋炮击与生存辅助,参谋位提高先锋炮击并提供低血量恢复
+destroyer_every,驱逐,every,commander,舰队存在任意风帆舰且需要炮击与生存辅助,司令位提高全队炮击并提供先锋减伤和低血量恢复
+destroyer_bonny,驱逐,bonny,staff,需要先锋炮击与生存辅助,参谋位提高先锋炮击并提供低血量恢复
+submarine_bella,潜艇,bella,either,潜艇编队,提高狩猎范围和氧气并强化潜艇命中
+submarine_robert,潜艇,robert,either,潜艇编队；包含皇家财富号时额外触发特殊弹幕,提高狩猎范围、氧气和潜艇雷击

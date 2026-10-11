@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>碧蓝航线助手</title>
+  <link rel="stylesheet" href="/style.css">
+  <link rel="stylesheet" href="/equipment.css">
+</head>
+<body>
+<header class="app-header">
+  <div><p id="app-eyebrow" class="eyebrow">本地离线工具</p><h1 id="app-title">碧蓝航线助手</h1><p id="app-subtitle">管理自己的仓库与任务规划。</p></div>
+  <div class="header-actions"><button id="header-settings-button" class="secondary" data-route="app-settings">数据设置</button><div class="status" id="status">读取本地数据…</div></div>
+</header>
+<div id="breadcrumbs" class="breadcrumbs"></div>
+<main>
+  <section id="page-app-settings" class="page">
+    <div class="section-title"><div><h2>数据设置</h2><p>参考数据与个人仓库分离；更新参考资料不会覆盖个人状态。</p></div></div>
+    <article class="card data-update-card"><div><h3>手动检查更新</h3><p class="note">日常使用不联网。检查时下载到暂存区并验证数量、ID、重复项、章节顺序与图片；只有确认后才原子应用，失败时保留旧数据。</p></div><div class="actions"><button data-refresh="ships" class="secondary">检查舰船剧情 WIKI</button><button data-refresh="fleets" class="secondary">检查编队舰娘图鉴与头像</button></div><div id="data-refresh-result" class="note"></div></article>
+    <article class="card data-update-card"><h3>当前离线数据</h3><p>指挥猫、舰船剧情、装备与舰娘图鉴；个人库存和进度保存在本项目 user_data 目录。</p></article>
+  </section>
+
+  <section id="page-azur-lane" class="page">
+    <div class="section-title"><div><h2>碧蓝航线</h2><p>选择要管理的独立系统。</p></div></div>
+    <div class="portal-grid">
+      <button class="portal-card" data-route="commander-cats"><span class="portal-mark">猫</span><span><b>指挥猫培养</b><small>理论顶配、库存鉴定、配队与设置</small></span></button>
+      <button class="portal-card" data-route="equipment"><span class="portal-mark">装</span><span><b>装备仓库</b><small>S—D 分级 · 普通与特殊分栏 · 库存导入导出</small></span></button>
+      <button class="portal-card" data-route="ship-stories"><span class="portal-mark">舰</span><span><b>舰船个人剧情</b><small>获取、满级、剧情完成与组合筛选</small></span></button>
+    </div>
+  </section>
+
+  <section id="page-commander-cats" class="page">
+    <nav id="cat-nav" class="module-nav"><button data-view="theory" class="active">全图鉴顶配</button><button data-view="inventory">库存鉴定</button><button data-view="pairing">库存配队</button><button data-view="settings">设置</button></nav>
+    <section id="theory" class="cat-view active"><div class="section-title"><div><h2>我的分队全图鉴顶配</h2><p>按已保存的所有分队计算，不受库存限制；使用相同用途权重，不是实际伤害模拟。</p></div></div><div id="team-grid" class="team-grid"></div></section>
+    <section id="inventory" class="cat-view"><div class="section-title"><div><h2>库存鉴定</h2><p>只评价初始天赋；建议昵称实时计算，不改写 Windows 导入的原昵称。</p></div><div class="actions"><select id="tier-filter"><option value="">全部档位</option><option>S</option><option>A</option><option>B</option><option>C</option><option>备</option><option>待评</option><option value="固定">固定成长</option></select><button id="open-windows-import" class="secondary">导入 Windows 数据</button></div></div><div id="inventory-grid" class="cat-grid"></div></section>
+    <section id="pairing" class="cat-view"><div class="section-title"><div><h2>我的编队方案</h2><p>大世界和主线分别保存；不同方案可以重复用猫、用舰娘。编辑自动保存，天赋等级不随编队改变。</p></div></div><div id="fleet-app"></div></section>
+    <section id="settings" class="cat-view"><div class="section-title"><div><h2>指挥猫设置</h2><p>真实编队在“库存配队”编辑并自动保存。</p></div></div><div id="settings-warning" class="warning hidden"></div><div class="settings-layout">
+      <section id="windows-import-card" class="settings-card"><h3>从 Windows 同步</h3><p class="note">导入新版 ZIP，或同时选择库存 CSV 与版本清单 JSON。只更新库存，保留 Mac 编队与设置。旧版、缺版本或校验失败会拒绝整次导入。</p><div class="import-controls"><input id="windows-import-files" type="file" accept=".zip,.csv,.json" multiple><button id="windows-import-preview" type="button">预览导入</button></div><div id="windows-import-result" class="preview-box">需要 <code>commander_cat_inventory.csv</code> 与 <code>commander_cat_manifest.json</code>。格式版本2，评分规则 embryo-2026-10-06-v2。</div><button id="windows-import-apply" type="button" class="hidden">确认并替换</button></section>
+      <section class="settings-card"><h3>导入 Windows 编队</h3><p>选择 mac-fleet-plans.json；只修改编队和历史推荐，不改库存。导入后请重新推荐所有方案。</p><input id="fleet-import-file" type="file" accept=".json"><button id="fleet-import-preview" type="button">预览编队导入</button><button id="fleet-import-apply" type="button" disabled>确认导入</button><p id="fleet-import-status" class="note" aria-live="polite"></p></section>
+      <section class="settings-card"><h3>导出到 Windows</h3><p>选择需要同步的指挥猫数据；未勾选的数据不会导出，导出不会修改本地存档。</p><div class="export-options"><label><input id="fleet-export-plans" type="checkbox" checked> 编队数据（含已保存推荐）</label><label><input id="fleet-export-inventory" type="checkbox"> 指挥猫库存（含昵称与初始天赋）</label></div><p class="note">仅编队导出JSON，库存导出CSV与清单ZIP；全选时先解压外层ZIP，再分别导入。Windows库存以扫描为准，请预览确认，避免覆盖较新数据。</p><button id="fleet-export" type="button">导出所选数据</button><p id="fleet-export-status" class="note" aria-live="polite"></p></section>
+      <div class="explain"><h3>初始天赋分级（独立于当前编队）</h3><p>S极品、A优质、B普通可用、C过渡、备淘汰候选。固定成长单列；未覆盖天赋不能据此淘汰。只评价初始，不考虑后天成果。昵称与筛选使用同一天赋等级，当前队伍数量不改变等级。</p><p>分别评价主力与先锋混编的自动输出／生存、潜艇、低耗、航速、防潜、雷击专项以及四种阵营变体，取最佳等级。S和双关键彩的A级猫会提示保留，暂时不用也不会降级。X为有效特殊权重，Y为有效普通点（成长等级×场景权重）。火权重2，适用的一发／王牌／狼1.5，命运等按场景1或0.5；水雷魂在自动混编计普通1点，在雷击专项计特殊1.5。不计算不适用天赋。</p><p>S：至少2项关键特殊且X≥3、Y≥1，或至少1项关键特殊且X≥1.5、Y≥3。A：关键特殊且X≥2.5，或X≥1.5且Y≥2，或X≥1且Y≥3。B：X≥1且Y≥1，或X≥2，或Y≥3。C：X&gt;0或Y≥1，其余为备；存在未覆盖用途时备改为待评。这些是可审计的筛选权重，不是出率或精确增伤。</p><p>已有培养模板仅作参考，不能决定天赋等级。缺少完全匹配排行的路线不再借用其他路线的k值。<code>k%=(k1/k2-1)×100%</code>不是天赋概率。模板替换建议只针对该模板，不表示混搭初始天赋无价值。</p><h3>实际舰队推荐</h3><p>根据所选舰娘的舰种、阵营和队伍用途，动态选择最多5个成长链、6个后续点内可达的目标。只允许学习本猫阵营的阵营指挥天赋；固定猫专有天赋不加入随机候选。保留、学习、升级、替换分别显示。</p><p>推荐分是用途权重×等级×受益人数占比的总和，加上按实际职位、模式、编队条件确认的技能覆盖分（每项技能：2×受益舰娘数÷本队舰娘数，各项累计）。火4，一发／王牌／狼3，命运2；魂在雷击用途3否则1.5；风在速刷4否则0.5；林／山／奇迹在生存3否则1；见敌1；普通通常1、观测0.75，防御／防潜／雷击会随用途调整。它不是增伤百分比，不与天赋X/Y混用。</p><p>技能项逐猫核对司令／参谋、单航母、阵营数量及主线／大世界条件；依赖敌人、距离、血量、弹幕等未建模条件不额外加分。技能覆盖分不是技能效果大小或伤害百分比。未模拟具体装备、舰娘技能和敌人，不能宣称全局数学最优。先照顾队伍覆盖，再根据数字弱优先级交换已分配的猫：编号小的优先，只有受影响两队推荐分损失不超过5%时才交换，且保留全方案初始总分的95%以上。不是实际伤害差距；同方案不重复猫和舰娘，不同方案允许复用，但同一实例只能有一条培养目标；高优先级先确定方向，同优先级冲突需调整编号后重新推荐。所有方案统一计算并一起保存。</p><h3>离线培养观测</h3><p>培养中的当前天赋与永久初始天赋分别保存；评级只看初始。毕业结论须匹配实例、猫种、初始事实、目标和截图哈希。目标改变或证据失效会提示待复核，历史完成目标不会丢弃。“成”只作为昵称建议，不改写库存实际昵称；历史截图不是实时游戏状态。</p><h3>数据来源</h3><p>WIKI事实资料；2020—2022年坐看云起i攻略作为场景筛选观点；旧排行仅用于相同目标组合。当前未引入完整舰队伤害模拟。</p><p id="data-counts"></p><button id="wiki-refresh" type="button">检查指挥猫 WIKI 头像</button><div id="wiki-result" class="note"></div></div>
+    </div></section>
+  </section>
+
+  <section id="page-equipment" class="page"><div id="equipment-app"></div></section>
+
+  <section id="page-ship-stories" class="page">
+    <div class="section-title"><div><h2>舰船个人剧情</h2><p>默认显示已经获取、剧情尚未完成的舰娘。</p></div><div id="ship-stats" class="status"></div></div>
+    <div class="filter-bar"><input id="ship-search" type="search" placeholder="名称或别名"><select id="ship-camp"><option value="">全部阵营</option></select><select id="ship-group"><option value="">全部编队</option><option>前排</option><option>后排</option><option>潜艇</option></select><select id="ship-type"><option value="">全部舰种</option></select><select id="ship-max"><option value="">全部等级</option><option value="true">已满级</option><option value="false">未满级</option></select><select id="ship-status"><option value="in_progress">已获取未完成</option><option value="unowned">未获取</option><option value="completed">已完成</option><option value="">全部状态</option></select><button id="ship-reset" class="secondary">恢复默认</button></div>
+    <div id="ship-grid" class="catalog-grid"></div>
+  </section>
+
+</main>
+
+
+<script src="/equipment.js"></script>
+<script src="/app.js"></script>
+<script src="/training_plan.js"></script>
+<script src="/cat_offline.js"></script>
+<script src="/fleet_plans.js"></script>
+
+</body>
+</html>

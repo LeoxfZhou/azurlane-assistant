@@ -1,0 +1,7463 @@
+{
+  "url": "https://wiki.biligame.com/blhx/模块:装备数据",
+  "revision": 416976,
+  "retrievedAt": "2026-10-11",
+  "equipment": [
+    {
+      "name": "小海狸中队队徽T0",
+      "wikiName": "小海狸中队队徽T0",
+      "gameId": "500",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "珍珠之泪T0",
+      "wikiName": "珍珠之泪T0",
+      "gameId": "520",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "治愈系猫爪T0",
+      "wikiName": "治愈系猫爪T0",
+      "gameId": "540",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "“宁海号”水上侦察机T0",
+      "wikiName": "“宁海号”水上侦察机T0",
+      "gameId": "560",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "九一式穿甲弹T0",
+      "wikiName": "九一式穿甲弹T0",
+      "gameId": "580",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "一式穿甲弹T0",
+      "wikiName": "一式穿甲弹T0",
+      "gameId": "600",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "超重弹T0",
+      "wikiName": "超重弹T0",
+      "gameId": "620",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "Z旗T0",
+      "wikiName": "Z旗T0",
+      "gameId": "640",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "100/150号航空燃油T0",
+      "wikiName": "100/150号航空燃油T0",
+      "gameId": "660",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "归航信标T0",
+      "wikiName": "归航信标T0",
+      "gameId": "680",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "九八式射击延迟装置T0",
+      "wikiName": "九八式射击延迟装置T0",
+      "gameId": "700",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "约定的证明T0",
+      "wikiName": "约定的证明T0",
+      "gameId": "720",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "Fl-282直升机T0",
+      "wikiName": "Fl-282直升机T0",
+      "gameId": "740",
+      "type": 17,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "侦察报告·纽约近海T0",
+      "wikiName": "侦察报告·纽约近海T0",
+      "gameId": "760",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "机密文件·极地海峡T0",
+      "wikiName": "机密文件·极地海峡T0",
+      "gameId": "780",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "艇壳改良设计案T2",
+      "wikiName": "艇壳改良设计案T2",
+      "gameId": "800",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "艇壳改良设计案T3",
+      "wikiName": "艇壳改良设计案T3",
+      "gameId": "151160",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "开拓者奖章T0",
+      "wikiName": "开拓者奖章T0",
+      "gameId": "820",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "白鹰精英损管T0",
+      "wikiName": "白鹰精英损管T0",
+      "gameId": "840",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "华盛顿海军条约T0",
+      "wikiName": "华盛顿海军条约T0",
+      "gameId": "860",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "纳尔逊的旗语T0",
+      "wikiName": "纳尔逊的旗语T0",
+      "gameId": "880",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "作战报告：AFT0",
+      "wikiName": "作战报告：AFT0",
+      "gameId": "940",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "FuMO 25T0",
+      "wikiName": "FuMO 25T0",
+      "gameId": "960",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "机密文件·日志残卷T0",
+      "wikiName": "机密文件·日志残卷T0",
+      "gameId": "980",
+      "type": 10,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "舰艇维修设备T1",
+      "wikiName": "舰艇维修设备T1",
+      "gameId": "1000",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "舰艇维修设备T2",
+      "wikiName": "舰艇维修设备T2",
+      "gameId": "1020",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "舰艇维修设备T3",
+      "wikiName": "舰艇维修设备T3",
+      "gameId": "1040",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "6CRH穿甲弹T0",
+      "wikiName": "6CRH穿甲弹T0",
+      "gameId": "1060",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "对空雷达T1",
+      "wikiName": "对空雷达T1",
+      "gameId": "1100",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "对空雷达T2",
+      "wikiName": "对空雷达T2",
+      "gameId": "1120",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "对空雷达T3",
+      "wikiName": "对空雷达T3",
+      "gameId": "1140",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "高性能对空雷达T0",
+      "wikiName": "高性能对空雷达T0",
+      "gameId": "1160",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "火控雷达T1",
+      "wikiName": "火控雷达T1",
+      "gameId": "1200",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "火控雷达T2",
+      "wikiName": "火控雷达T2",
+      "gameId": "1220",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "火控雷达T3",
+      "wikiName": "火控雷达T3",
+      "gameId": "1240",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "高性能火控雷达T0",
+      "wikiName": "高性能火控雷达T0",
+      "gameId": "1260",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "防鱼雷隔舱T1",
+      "wikiName": "防鱼雷隔舱T1",
+      "gameId": "1300",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "防鱼雷隔舱T2",
+      "wikiName": "防鱼雷隔舱T2",
+      "gameId": "1320",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "防鱼雷隔舱T3",
+      "wikiName": "防鱼雷隔舱T3",
+      "gameId": "1340",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "液压弹射装置T1",
+      "wikiName": "液压弹射装置T1",
+      "gameId": "1400",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "液压弹射装置T2",
+      "wikiName": "液压弹射装置T2",
+      "gameId": "1420",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "液压弹射装置T3",
+      "wikiName": "液压弹射装置T3",
+      "gameId": "1440",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "SG雷达T1",
+      "wikiName": "SG雷达T1",
+      "gameId": "1500",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "SG雷达T2",
+      "wikiName": "SG雷达T2",
+      "gameId": "1520",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "SG雷达T3",
+      "wikiName": "SG雷达T3",
+      "gameId": "1540",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "电动扬弹机T1",
+      "wikiName": "电动扬弹机T1",
+      "gameId": "1600",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 1
+    },
+    {
+      "name": "电动扬弹机T2",
+      "wikiName": "电动扬弹机T2",
+      "gameId": "1620",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "电动扬弹机T3",
+      "wikiName": "电动扬弹机T3",
+      "gameId": "1640",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "液压舵机T1",
+      "wikiName": "液压舵机T1",
+      "gameId": "1700",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 1
+    },
+    {
+      "name": "液压舵机T2",
+      "wikiName": "液压舵机T2",
+      "gameId": "1720",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "液压舵机T3",
+      "wikiName": "液压舵机T3",
+      "gameId": "1740",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "高性能舵机T0",
+      "wikiName": "高性能舵机T0",
+      "gameId": "1760",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "改良锅炉T1",
+      "wikiName": "改良锅炉T1",
+      "gameId": "1800",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "改良锅炉T2",
+      "wikiName": "改良锅炉T2",
+      "gameId": "1820",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "改良锅炉T3",
+      "wikiName": "改良锅炉T3",
+      "gameId": "1840",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "海军迷彩T1",
+      "wikiName": "海军迷彩T1",
+      "gameId": "1900",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 1
+    },
+    {
+      "name": "海军迷彩T2",
+      "wikiName": "海军迷彩T2",
+      "gameId": "1920",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "海军迷彩T3",
+      "wikiName": "海军迷彩T3",
+      "gameId": "1940",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "海魂迷彩T0",
+      "wikiName": "海魂迷彩T0",
+      "gameId": "1960",
+      "type": 10,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "燃油滤清器T1",
+      "wikiName": "燃油滤清器T1",
+      "gameId": "2000",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "燃油滤清器T2",
+      "wikiName": "燃油滤清器T2",
+      "gameId": "2020",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "燃油滤清器T3",
+      "wikiName": "燃油滤清器T3",
+      "gameId": "2040",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "航空副油箱T1",
+      "wikiName": "航空副油箱T1",
+      "gameId": "2100",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "航空副油箱T2",
+      "wikiName": "航空副油箱T2",
+      "gameId": "2120",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "航空副油箱T3",
+      "wikiName": "航空副油箱T3",
+      "gameId": "2140",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "链式装弹机T1",
+      "wikiName": "链式装弹机T1",
+      "gameId": "2200",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "链式装弹机T2",
+      "wikiName": "链式装弹机T2",
+      "gameId": "2220",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "链式装弹机T3",
+      "wikiName": "链式装弹机T3",
+      "gameId": "2240",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "陀螺仪T1",
+      "wikiName": "陀螺仪T1",
+      "gameId": "2300",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "陀螺仪T2",
+      "wikiName": "陀螺仪T2",
+      "gameId": "2320",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "陀螺仪T3",
+      "wikiName": "陀螺仪T3",
+      "gameId": "2340",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "维修工具T1",
+      "wikiName": "维修工具T1",
+      "gameId": "2400",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "维修工具T2",
+      "wikiName": "维修工具T2",
+      "gameId": "2420",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "维修工具T3",
+      "wikiName": "维修工具T3",
+      "gameId": "2440",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "灭火器T1",
+      "wikiName": "灭火器T1",
+      "gameId": "2500",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 1
+    },
+    {
+      "name": "灭火器T2",
+      "wikiName": "灭火器T2",
+      "gameId": "2520",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "灭火器T3",
+      "wikiName": "灭火器T3",
+      "gameId": "2540",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "九三式纯氧鱼雷T1",
+      "wikiName": "九三式纯氧鱼雷T1",
+      "gameId": "2600",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "九三式纯氧鱼雷T2",
+      "wikiName": "九三式纯氧鱼雷T2",
+      "gameId": "2620",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "九三式纯氧鱼雷T3",
+      "wikiName": "九三式纯氧鱼雷T3",
+      "gameId": "2640",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "533mm磁性鱼雷T1",
+      "wikiName": "533mm磁性鱼雷T1",
+      "gameId": "2700",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "533mm磁性鱼雷T2",
+      "wikiName": "533mm磁性鱼雷T2",
+      "gameId": "2720",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "533mm磁性鱼雷T3",
+      "wikiName": "533mm磁性鱼雷T3",
+      "gameId": "2740",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "94式高射装置T0",
+      "wikiName": "94式高射装置T0",
+      "gameId": "2800",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "基础声呐T1",
+      "wikiName": "基础声呐T1",
+      "gameId": "2900",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "基础声呐T2",
+      "wikiName": "基础声呐T2",
+      "gameId": "2920",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "基础声呐T3",
+      "wikiName": "基础声呐T3",
+      "gameId": "2940",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "改良声呐T1",
+      "wikiName": "改良声呐T1",
+      "gameId": "3000",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "改良声呐T2",
+      "wikiName": "改良声呐T2",
+      "gameId": "3020",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "改良声呐T3",
+      "wikiName": "改良声呐T3",
+      "gameId": "3040",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "高压氧气瓶T0",
+      "wikiName": "高压氧气瓶T0",
+      "gameId": "3100",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "改良型水下进气管T0",
+      "wikiName": "改良型水下进气管T0",
+      "gameId": "3120",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "改良蓄电池阵列T0",
+      "wikiName": "改良蓄电池阵列T0",
+      "gameId": "3140",
+      "type": 10,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "VH装甲钢板T0",
+      "wikiName": "VH装甲钢板T0",
+      "gameId": "3200",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "VC装甲钢板T0",
+      "wikiName": "VC装甲钢板T0",
+      "gameId": "3220",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "四神之印T0",
+      "wikiName": "四神之印T0",
+      "gameId": "3300",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 5
+    },
+    {
+      "name": "“九四式40厘米炮”部件T0",
+      "wikiName": "“九四式40厘米炮”部件T0",
+      "gameId": "3400",
+      "type": 18,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "兵装补给(航空)T0",
+      "wikiName": "兵装补给(航空)T0",
+      "gameId": "3500",
+      "type": 18,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "兵装补给(中小口径武器)T0",
+      "wikiName": "兵装补给(中小口径武器)T0",
+      "gameId": "3520",
+      "type": 18,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "兵装补给(鱼雷)T0",
+      "wikiName": "兵装补给(鱼雷)T0",
+      "gameId": "3540",
+      "type": 18,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "破损的演讲稿T0",
+      "wikiName": "破损的演讲稿T0",
+      "gameId": "3560",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "海军部火控台T0",
+      "wikiName": "海军部火控台T0",
+      "gameId": "3580",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "撒丁的邀请函T0",
+      "wikiName": "撒丁的邀请函T0",
+      "gameId": "3600",
+      "type": 10,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "结界通行凭证T0",
+      "wikiName": "结界通行凭证T0",
+      "gameId": "3620",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "阿尔比恩的报告书T0",
+      "wikiName": "阿尔比恩的报告书T0",
+      "gameId": "3640",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "小王冠T0",
+      "wikiName": "小王冠T0",
+      "gameId": "3660",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "12磅长管炮T1",
+      "wikiName": "12磅长管炮T1",
+      "gameId": "3680",
+      "type": 1,
+      "nationality": 96,
+      "rarity": 3
+    },
+    {
+      "name": "12磅长管炮T2",
+      "wikiName": "12磅长管炮T2",
+      "gameId": "3700",
+      "type": 1,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "12磅长管炮T3",
+      "wikiName": "12磅长管炮T3",
+      "gameId": "3720",
+      "type": 1,
+      "nationality": 96,
+      "rarity": 5
+    },
+    {
+      "name": "球形实心弹T0",
+      "wikiName": "球形实心弹T0",
+      "gameId": "3740",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "帆索组件T0",
+      "wikiName": "帆索组件T0",
+      "gameId": "3760",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "雪顶之梦T0",
+      "wikiName": "雪顶之梦T0",
+      "gameId": "3780",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "梅之语T0",
+      "wikiName": "梅之语T0",
+      "gameId": "3800",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 5
+    },
+    {
+      "name": "戊型水上机T0",
+      "wikiName": "戊型水上机T0",
+      "gameId": "3820",
+      "type": 18,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "“妖精魔法”海报T0",
+      "wikiName": "“妖精魔法”海报T0",
+      "gameId": "3840",
+      "type": 10,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "女王的日程表(绝密)T0",
+      "wikiName": "女王的日程表(绝密)T0",
+      "gameId": "3860",
+      "type": 10,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "作战报告·极地风暴T0",
+      "wikiName": "作战报告·极地风暴T0",
+      "gameId": "3880",
+      "type": 10,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "「神石样本」研究笔记T0",
+      "wikiName": "「神石样本」研究笔记T0",
+      "gameId": "3900",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "绿洲无液气压计T0",
+      "wikiName": "绿洲无液气压计T0",
+      "gameId": "3920",
+      "type": 10,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "航空整备小组T0",
+      "wikiName": "航空整备小组T0",
+      "gameId": "3940",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "博览会纪念票T0",
+      "wikiName": "博览会纪念票T0",
+      "gameId": "3960",
+      "type": 10,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "对抗模拟指令T0",
+      "wikiName": "对抗模拟指令T0",
+      "gameId": "3980",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "基础深弹投射器T1",
+      "wikiName": "基础深弹投射器T1",
+      "gameId": "4000",
+      "type": 14,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "基础深弹投射器T2",
+      "wikiName": "基础深弹投射器T2",
+      "gameId": "4020",
+      "type": 14,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "基础深弹投射器T3",
+      "wikiName": "基础深弹投射器T3",
+      "gameId": "4040",
+      "type": 14,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "改良深弹投射器T1",
+      "wikiName": "改良深弹投射器T1",
+      "gameId": "4100",
+      "type": 14,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "改良深弹投射器T2",
+      "wikiName": "改良深弹投射器T2",
+      "gameId": "4120",
+      "type": 14,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "改良深弹投射器T3",
+      "wikiName": "改良深弹投射器T3",
+      "gameId": "4140",
+      "type": 14,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "剑鱼Mark II-ASV(反潜)T1",
+      "wikiName": "剑鱼Mark II-ASV(反潜)T1",
+      "gameId": "4200",
+      "type": 15,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "剑鱼Mark II-ASV(反潜)T2",
+      "wikiName": "剑鱼Mark II-ASV(反潜)T2",
+      "gameId": "4220",
+      "type": 15,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "剑鱼Mark II-ASV(反潜)T3",
+      "wikiName": "剑鱼Mark II-ASV(反潜)T3",
+      "gameId": "4240",
+      "type": 15,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "塘鹅T0",
+      "wikiName": "塘鹅T0",
+      "gameId": "4260",
+      "type": 15,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "TBM-3复仇者(反潜)T1",
+      "wikiName": "TBM-3复仇者(反潜)T1",
+      "gameId": "4300",
+      "type": 15,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "TBM-3复仇者(反潜)T2",
+      "wikiName": "TBM-3复仇者(反潜)T2",
+      "gameId": "4320",
+      "type": 15,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "TBM-3复仇者(反潜)T3",
+      "wikiName": "TBM-3复仇者(反潜)T3",
+      "gameId": "4340",
+      "type": 15,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "TBM复仇者(VT-51中队)T0",
+      "wikiName": "TBM复仇者(VT-51中队)T0",
+      "gameId": "4360",
+      "type": 15,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装533mm鱼雷T1",
+      "wikiName": "三联装533mm鱼雷T1",
+      "gameId": "5000",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 1
+    },
+    {
+      "name": "三联装533mm鱼雷T2",
+      "wikiName": "三联装533mm鱼雷T2",
+      "gameId": "5020",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "三联装533mm鱼雷T3",
+      "wikiName": "三联装533mm鱼雷T3",
+      "gameId": "5040",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "四联装533mm鱼雷T1",
+      "wikiName": "四联装533mm鱼雷T1",
+      "gameId": "5100",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "四联装533mm鱼雷T2",
+      "wikiName": "四联装533mm鱼雷T2",
+      "gameId": "5120",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "四联装533mm鱼雷T3",
+      "wikiName": "四联装533mm鱼雷T3",
+      "gameId": "5140",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "五联装533mm鱼雷T1",
+      "wikiName": "五联装533mm鱼雷T1",
+      "gameId": "5200",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "五联装533mm鱼雷T2",
+      "wikiName": "五联装533mm鱼雷T2",
+      "gameId": "5220",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "五联装533mm鱼雷T3",
+      "wikiName": "五联装533mm鱼雷T3",
+      "gameId": "5240",
+      "type": 5,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "双联装550mm鱼雷T1",
+      "wikiName": "双联装550mm鱼雷T1",
+      "gameId": "5300",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 1
+    },
+    {
+      "name": "双联装550mm鱼雷T2",
+      "wikiName": "双联装550mm鱼雷T2",
+      "gameId": "5320",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "双联装550mm鱼雷T3",
+      "wikiName": "双联装550mm鱼雷T3",
+      "gameId": "5340",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "三联装550mm鱼雷T1",
+      "wikiName": "三联装550mm鱼雷T1",
+      "gameId": "5400",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "三联装550mm鱼雷T2",
+      "wikiName": "三联装550mm鱼雷T2",
+      "gameId": "5420",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "三联装550mm鱼雷T3",
+      "wikiName": "三联装550mm鱼雷T3",
+      "gameId": "5440",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "四联装550mm鱼雷T3",
+      "wikiName": "四联装550mm鱼雷T3",
+      "gameId": "5600",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "四联装550mm鱼雷（弹药调整）T3",
+      "wikiName": "四联装550mm鱼雷（弹药调整）T3",
+      "gameId": "5620",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "四联装550mm鱼雷改（弹药调整）T0",
+      "wikiName": "四联装550mm鱼雷改（弹药调整）T0",
+      "gameId": "5640",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "550mm鱼雷组（三联装+双联装）T0",
+      "wikiName": "550mm鱼雷组（三联装+双联装）T0",
+      "gameId": "5660",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装550mm鱼雷改（弹药调整）T0",
+      "wikiName": "试作型三联装550mm鱼雷改（弹药调整）T0",
+      "gameId": "5680",
+      "type": 5,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用550mm24V鱼雷T1",
+      "wikiName": "潜艇用550mm24V鱼雷T1",
+      "gameId": "5500",
+      "type": 13,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "潜艇用550mm24V鱼雷T2",
+      "wikiName": "潜艇用550mm24V鱼雷T2",
+      "gameId": "5520",
+      "type": 13,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用550mm24V鱼雷T3",
+      "wikiName": "潜艇用550mm24V鱼雷T3",
+      "gameId": "5540",
+      "type": 13,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "12.7mm防空机枪T1",
+      "wikiName": "12.7mm防空机枪T1",
+      "gameId": "6000",
+      "type": 6,
+      "nationality": 0,
+      "rarity": 1
+    },
+    {
+      "name": "12.7mm防空机枪T2",
+      "wikiName": "12.7mm防空机枪T2",
+      "gameId": "6020",
+      "type": 6,
+      "nationality": 0,
+      "rarity": 2
+    },
+    {
+      "name": "12.7mm防空机枪T3",
+      "wikiName": "12.7mm防空机枪T3",
+      "gameId": "6040",
+      "type": 6,
+      "nationality": 0,
+      "rarity": 3
+    },
+    {
+      "name": "双联装100mm高炮T1",
+      "wikiName": "双联装100mm高炮T1",
+      "gameId": "6100",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 1
+    },
+    {
+      "name": "双联装100mm高炮T2",
+      "wikiName": "双联装100mm高炮T2",
+      "gameId": "6120",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "双联装100mm高炮T3",
+      "wikiName": "双联装100mm高炮T3",
+      "gameId": "6140",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "单装152mm主炮T1",
+      "wikiName": "单装152mm主炮T1",
+      "gameId": "7000",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 1
+    },
+    {
+      "name": "单装152mm主炮T2",
+      "wikiName": "单装152mm主炮T2",
+      "gameId": "7020",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 2
+    },
+    {
+      "name": "单装152mm主炮T3",
+      "wikiName": "单装152mm主炮T3",
+      "gameId": "7040",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "单装150mm主炮T1",
+      "wikiName": "单装150mm主炮T1",
+      "gameId": "7100",
+      "type": 2,
+      "nationality": 5,
+      "rarity": 1
+    },
+    {
+      "name": "单装150mm主炮T2",
+      "wikiName": "单装150mm主炮T2",
+      "gameId": "7120",
+      "type": 2,
+      "nationality": 5,
+      "rarity": 2
+    },
+    {
+      "name": "单装150mm主炮T3",
+      "wikiName": "单装150mm主炮T3",
+      "gameId": "7140",
+      "type": 2,
+      "nationality": 5,
+      "rarity": 3
+    },
+    {
+      "name": "130mm单装炮T1",
+      "wikiName": "130mm单装炮T1",
+      "gameId": "7200",
+      "type": 1,
+      "nationality": 7,
+      "rarity": 2
+    },
+    {
+      "name": "130mm单装炮T2",
+      "wikiName": "130mm单装炮T2",
+      "gameId": "7220",
+      "type": 1,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "130mm单装炮T3",
+      "wikiName": "130mm单装炮T3",
+      "gameId": "7240",
+      "type": 1,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装203mm舰炮T0",
+      "wikiName": "试作型三联装203mm舰炮T0",
+      "gameId": "7300",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "四联装130mm副炮Mle1932T0",
+      "wikiName": "四联装130mm副炮Mle1932T0",
+      "gameId": "7320",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "双联装203mm主炮Mle1924(潜艇用)T0",
+      "wikiName": "双联装203mm主炮Mle1924(潜艇用)T0",
+      "gameId": "7340",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "76mm火炮T1",
+      "wikiName": "76mm火炮T1",
+      "gameId": "11000",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "76mm火炮T2",
+      "wikiName": "76mm火炮T2",
+      "gameId": "11020",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "76mm火炮T3",
+      "wikiName": "76mm火炮T3",
+      "gameId": "11040",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "127mm单装炮早期型T0",
+      "wikiName": "127mm单装炮早期型T0",
+      "gameId": "11060",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "127mm单装炮T1",
+      "wikiName": "127mm单装炮T1",
+      "gameId": "11100",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "127mm单装炮T2",
+      "wikiName": "127mm单装炮T2",
+      "gameId": "11120",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "127mm单装炮T3",
+      "wikiName": "127mm单装炮T3",
+      "gameId": "11140",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联装127mm副炮T0",
+      "wikiName": "双联装127mm副炮T0",
+      "gameId": "11160",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联装127mm高平两用炮Mk12T1",
+      "wikiName": "双联装127mm高平两用炮Mk12T1",
+      "gameId": "11200",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "双联装127mm高平两用炮Mk12T2",
+      "wikiName": "双联装127mm高平两用炮Mk12T2",
+      "gameId": "11220",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联装127mm高平两用炮Mk12T3",
+      "wikiName": "双联装127mm高平两用炮Mk12T3",
+      "gameId": "11240",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型双联装137mm高平两用炮Mk1T0",
+      "wikiName": "试作型双联装137mm高平两用炮Mk1T0",
+      "gameId": "11260",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型双联装127mm高平两用炮Mk16T0",
+      "wikiName": "试作型双联装127mm高平两用炮Mk16T0",
+      "gameId": "11280",
+      "type": 1,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "双联152mm主炮T1",
+      "wikiName": "双联152mm主炮T1",
+      "gameId": "12000",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "双联152mm主炮T2",
+      "wikiName": "双联152mm主炮T2",
+      "gameId": "12020",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "双联152mm主炮T3",
+      "wikiName": "双联152mm主炮T3",
+      "gameId": "12040",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "双联152mm主炮Mk15T0",
+      "wikiName": "双联152mm主炮Mk15T0",
+      "gameId": "12060",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装152mm主炮(白鹰)T1",
+      "wikiName": "三联装152mm主炮(白鹰)T1",
+      "gameId": "12100",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "三联装152mm主炮(白鹰)T2",
+      "wikiName": "三联装152mm主炮(白鹰)T2",
+      "gameId": "12120",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装152mm主炮(白鹰)T3",
+      "wikiName": "三联装152mm主炮(白鹰)T3",
+      "gameId": "12140",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装152mm主炮Mk16T0",
+      "wikiName": "三联装152mm主炮Mk16T0",
+      "gameId": "12160",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装152mm高平两用炮Mk17T0",
+      "wikiName": "试作型三联装152mm高平两用炮Mk17T0",
+      "gameId": "12200",
+      "type": 2,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装203mm主炮T1",
+      "wikiName": "三联装203mm主炮T1",
+      "gameId": "13000",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "三联装203mm主炮T2",
+      "wikiName": "三联装203mm主炮T2",
+      "gameId": "13020",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "三联装203mm主炮T3",
+      "wikiName": "三联装203mm主炮T3",
+      "gameId": "13040",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装203mm主炮Mk13T0",
+      "wikiName": "三联装203mm主炮Mk13T0",
+      "gameId": "13060",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装203mm主炮Mk14T0",
+      "wikiName": "三联装203mm主炮Mk14T0",
+      "gameId": "13080",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装203mm主炮改进型T1",
+      "wikiName": "三联装203mm主炮改进型T1",
+      "gameId": "13100",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "三联装203mm主炮改进型T2",
+      "wikiName": "三联装203mm主炮改进型T2",
+      "gameId": "13120",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装203mm主炮改进型T3",
+      "wikiName": "三联装203mm主炮改进型T3",
+      "gameId": "13140",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装203mm主炮Mk15T0",
+      "wikiName": "三联装203mm主炮Mk15T0",
+      "gameId": "13160",
+      "type": 3,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装305mm主炮Mk8T0",
+      "wikiName": "三联装305mm主炮Mk8T0",
+      "gameId": "13180",
+      "type": 11,
+      "nationality": 1,
+      "rarity": 6
+    },
+    {
+      "name": "三联装305mm主炮Mk8T1",
+      "wikiName": "三联装305mm主炮Mk8T1",
+      "gameId": "14000",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装305mm主炮Mk8T2",
+      "wikiName": "三联装305mm主炮Mk8T2",
+      "gameId": "14020",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装305mm主炮Mk8T3",
+      "wikiName": "三联装305mm主炮Mk8T3",
+      "gameId": "14040",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装356mm主炮T1",
+      "wikiName": "三联装356mm主炮T1",
+      "gameId": "14100",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "三联装356mm主炮T2",
+      "wikiName": "三联装356mm主炮T2",
+      "gameId": "14120",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "三联装356mm主炮T3",
+      "wikiName": "三联装356mm主炮T3",
+      "gameId": "14140",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "试作型四联装356mm主炮MkBT0",
+      "wikiName": "试作型四联装356mm主炮MkBT0",
+      "gameId": "14160",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联装406mm主炮Mk1T0",
+      "wikiName": "双联装406mm主炮Mk1T0",
+      "gameId": "14180",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "双联装406mm主炮Mk5T1",
+      "wikiName": "双联装406mm主炮Mk5T1",
+      "gameId": "14200",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "双联装406mm主炮Mk5T2",
+      "wikiName": "双联装406mm主炮Mk5T2",
+      "gameId": "14220",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "双联装406mm主炮Mk5T3",
+      "wikiName": "双联装406mm主炮Mk5T3",
+      "gameId": "14240",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联装406mm主炮Mk8T0",
+      "wikiName": "双联装406mm主炮Mk8T0",
+      "gameId": "14260",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装406mm主炮Mk6T1",
+      "wikiName": "三联装406mm主炮Mk6T1",
+      "gameId": "14300",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "三联装406mm主炮Mk6T2",
+      "wikiName": "三联装406mm主炮Mk6T2",
+      "gameId": "14320",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装406mm主炮Mk6T3",
+      "wikiName": "三联装406mm主炮Mk6T3",
+      "gameId": "14340",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装406mm主炮MkDT0",
+      "wikiName": "试作型三联装406mm主炮MkDT0",
+      "gameId": "14360",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装406mm主炮Mk2T0",
+      "wikiName": "三联装406mm主炮Mk2T0",
+      "gameId": "14380",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装406mm主炮Mk7T1",
+      "wikiName": "三联装406mm主炮Mk7T1",
+      "gameId": "14400",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "三联装406mm主炮Mk7T2",
+      "wikiName": "三联装406mm主炮Mk7T2",
+      "gameId": "14420",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "三联装406mm主炮Mk7T3",
+      "wikiName": "三联装406mm主炮Mk7T3",
+      "gameId": "14440",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装406mm主炮Mk7T0",
+      "wikiName": "三联装406mm主炮Mk7T0",
+      "gameId": "14460",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 6
+    },
+    {
+      "name": "试作型三联装406mm/45主炮Mk7T0",
+      "wikiName": "试作型三联装406mm/45主炮Mk7T0",
+      "gameId": "14480",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型双联装457mm主炮MkAT0",
+      "wikiName": "试作型双联装457mm主炮MkAT0",
+      "gameId": "14500",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 6
+    },
+    {
+      "name": "试作型双联装406mm主炮Mk4T0",
+      "wikiName": "试作型双联装406mm主炮Mk4T0",
+      "gameId": "14520",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装406mm主炮Mk6改T0",
+      "wikiName": "试作型三联装406mm主炮Mk6改T0",
+      "gameId": "14540",
+      "type": 4,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用Mark 14鱼雷T1",
+      "wikiName": "潜艇用Mark 14鱼雷T1",
+      "gameId": "15000",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "潜艇用Mark 14鱼雷T2",
+      "wikiName": "潜艇用Mark 14鱼雷T2",
+      "gameId": "15020",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用Mark 14鱼雷T3",
+      "wikiName": "潜艇用Mark 14鱼雷T3",
+      "gameId": "15040",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用Mark 18鱼雷T0",
+      "wikiName": "潜艇用Mark 18鱼雷T0",
+      "gameId": "15060",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用Mark 16鱼雷T1",
+      "wikiName": "潜艇用Mark 16鱼雷T1",
+      "gameId": "15100",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用Mark 16鱼雷T2",
+      "wikiName": "潜艇用Mark 16鱼雷T2",
+      "gameId": "15120",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用Mark 16鱼雷T3",
+      "wikiName": "潜艇用Mark 16鱼雷T3",
+      "gameId": "15140",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用Mark 28鱼雷T0",
+      "wikiName": "潜艇用Mark 28鱼雷T0",
+      "gameId": "15160",
+      "type": 13,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "三联装533mm鱼雷Mk17T0",
+      "wikiName": "三联装533mm鱼雷Mk17T0",
+      "gameId": "15200",
+      "type": 5,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "四联装533mm鱼雷Mk17T0",
+      "wikiName": "四联装533mm鱼雷Mk17T0",
+      "gameId": "15220",
+      "type": 5,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "五联装533mm鱼雷Mk17T0",
+      "wikiName": "五联装533mm鱼雷Mk17T0",
+      "gameId": "15240",
+      "type": 5,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "533mm鱼雷Mk35(4连发射)T0",
+      "wikiName": "533mm鱼雷Mk35(4连发射)T0",
+      "gameId": "15300",
+      "type": 5,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "PBY-5A卡特琳娜水上机T0",
+      "wikiName": "PBY-5A卡特琳娜水上机T0",
+      "gameId": "15500",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "20mm厄利孔高射炮T1",
+      "wikiName": "20mm厄利孔高射炮T1",
+      "gameId": "16000",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "20mm厄利孔高射炮T2",
+      "wikiName": "20mm厄利孔高射炮T2",
+      "gameId": "16020",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "20mm厄利孔高射炮T3",
+      "wikiName": "20mm厄利孔高射炮T3",
+      "gameId": "16040",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "76mm高射炮改进型T0",
+      "wikiName": "76mm高射炮改进型T0",
+      "gameId": "16060",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联装76mmRF火炮Mk27T0",
+      "wikiName": "双联装76mmRF火炮Mk27T0",
+      "gameId": "16080",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "双管20mm厄利孔高射炮T1",
+      "wikiName": "双管20mm厄利孔高射炮T1",
+      "gameId": "16100",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "双管20mm厄利孔高射炮T2",
+      "wikiName": "双管20mm厄利孔高射炮T2",
+      "gameId": "16120",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "双管20mm厄利孔高射炮T3",
+      "wikiName": "双管20mm厄利孔高射炮T3",
+      "gameId": "16140",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "四联装20mm厄利孔高射炮Mk15T0",
+      "wikiName": "四联装20mm厄利孔高射炮Mk15T0",
+      "gameId": "16160",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "四联装28mm“芝加哥钢琴”T1",
+      "wikiName": "四联装28mm“芝加哥钢琴”T1",
+      "gameId": "16200",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "四联装28mm“芝加哥钢琴”T2",
+      "wikiName": "四联装28mm“芝加哥钢琴”T2",
+      "gameId": "16220",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "四联装28mm“芝加哥钢琴”T3",
+      "wikiName": "四联装28mm“芝加哥钢琴”T3",
+      "gameId": "16240",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "双联40mm博福斯对空机炮T1",
+      "wikiName": "双联40mm博福斯对空机炮T1",
+      "gameId": "16300",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "双联40mm博福斯对空机炮T2",
+      "wikiName": "双联40mm博福斯对空机炮T2",
+      "gameId": "16320",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "双联40mm博福斯对空机炮T3",
+      "wikiName": "双联40mm博福斯对空机炮T3",
+      "gameId": "16340",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "四联40mm博福斯对空机炮T1",
+      "wikiName": "四联40mm博福斯对空机炮T1",
+      "gameId": "16400",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "四联40mm博福斯对空机炮T2",
+      "wikiName": "四联40mm博福斯对空机炮T2",
+      "gameId": "16420",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "四联40mm博福斯对空机炮T3",
+      "wikiName": "四联40mm博福斯对空机炮T3",
+      "gameId": "16440",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "双联装127mm高平两用炮Mk12(定时引信)T0",
+      "wikiName": "双联装127mm高平两用炮Mk12(定时引信)T0",
+      "gameId": "16460",
+      "type": 21,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "双联装76mmRF火炮Mk37T0",
+      "wikiName": "双联装76mmRF火炮Mk37T0",
+      "gameId": "16480",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 6
+    },
+    {
+      "name": "F2A水牛T1",
+      "wikiName": "F2A水牛T1",
+      "gameId": "17000",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "F2A水牛T2",
+      "wikiName": "F2A水牛T2",
+      "gameId": "17020",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "F2A水牛T3",
+      "wikiName": "F2A水牛T3",
+      "gameId": "17040",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "F2A水牛(萨奇队)T0",
+      "wikiName": "F2A水牛(萨奇队)T0",
+      "gameId": "17060",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型XF2A-4水牛T0",
+      "wikiName": "试作型XF2A-4水牛T0",
+      "gameId": "17080",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "F4F野猫T1",
+      "wikiName": "F4F野猫T1",
+      "gameId": "17100",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "F4F野猫T2",
+      "wikiName": "F4F野猫T2",
+      "gameId": "17120",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "F4F野猫T3",
+      "wikiName": "F4F野猫T3",
+      "gameId": "17140",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "F4U海盗T1",
+      "wikiName": "F4U海盗T1",
+      "gameId": "17200",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "F4U海盗T2",
+      "wikiName": "F4U海盗T2",
+      "gameId": "17220",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "F4U海盗T3",
+      "wikiName": "F4U海盗T3",
+      "gameId": "17240",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "F4U(VF-17“海盗”中队)T0",
+      "wikiName": "F4U(VF-17“海盗”中队)T0",
+      "gameId": "17260",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "F4U海盗（VBF-94中队）T0",
+      "wikiName": "F4U海盗（VBF-94中队）T0",
+      "gameId": "17280",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "F6F地狱猫T1",
+      "wikiName": "F6F地狱猫T1",
+      "gameId": "17300",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "F6F地狱猫T2",
+      "wikiName": "F6F地狱猫T2",
+      "gameId": "17320",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "F6F地狱猫T3",
+      "wikiName": "F6F地狱猫T3",
+      "gameId": "17340",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "F7F虎猫T0",
+      "wikiName": "F7F虎猫T0",
+      "gameId": "17360",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "F8F熊猫T0",
+      "wikiName": "F8F熊猫T0",
+      "gameId": "17380",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "XF5F天箭T0",
+      "wikiName": "XF5F天箭T0",
+      "gameId": "17400",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "试作型XF5U飞碟T0",
+      "wikiName": "试作型XF5U飞碟T0",
+      "gameId": "17420",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "试作型F8F熊猫（浮筒型）T0",
+      "wikiName": "试作型F8F熊猫（浮筒型）T0",
+      "gameId": "17460",
+      "type": 12,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "F6F地狱猫(HVAR搭载型)T0",
+      "wikiName": "F6F地狱猫(HVAR搭载型)T0",
+      "gameId": "17440",
+      "type": 7,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "TBD蹂躏者T1",
+      "wikiName": "TBD蹂躏者T1",
+      "gameId": "18000",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "TBD蹂躏者T2",
+      "wikiName": "TBD蹂躏者T2",
+      "gameId": "18020",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "TBD蹂躏者T3",
+      "wikiName": "TBD蹂躏者T3",
+      "gameId": "18040",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "TBD蹂躏者(VT-8中队)T0",
+      "wikiName": "TBD蹂躏者(VT-8中队)T0",
+      "gameId": "18060",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "TBF复仇者T1",
+      "wikiName": "TBF复仇者T1",
+      "gameId": "18100",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "TBF复仇者T2",
+      "wikiName": "TBF复仇者T2",
+      "gameId": "18120",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "TBF复仇者T3",
+      "wikiName": "TBF复仇者T3",
+      "gameId": "18140",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "TBM复仇者(VT-18中队)T0",
+      "wikiName": "TBM复仇者(VT-18中队)T0",
+      "gameId": "18180",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "XTB2D-1天空海盗T0",
+      "wikiName": "XTB2D-1天空海盗T0",
+      "gameId": "18220",
+      "type": 8,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "SBD无畏T1",
+      "wikiName": "SBD无畏T1",
+      "gameId": "19000",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 1
+    },
+    {
+      "name": "SBD无畏T2",
+      "wikiName": "SBD无畏T2",
+      "gameId": "19020",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "SBD无畏T3",
+      "wikiName": "SBD无畏T3",
+      "gameId": "19040",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "SBD无畏(麦克拉斯基队)T0",
+      "wikiName": "SBD无畏(麦克拉斯基队)T0",
+      "gameId": "19060",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "SB2C地狱俯冲者T1",
+      "wikiName": "SB2C地狱俯冲者T1",
+      "gameId": "19100",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "SB2C地狱俯冲者T2",
+      "wikiName": "SB2C地狱俯冲者T2",
+      "gameId": "19120",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "SB2C地狱俯冲者T3",
+      "wikiName": "SB2C地狱俯冲者T3",
+      "gameId": "19140",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "实验型XSB3C-1T0",
+      "wikiName": "实验型XSB3C-1T0",
+      "gameId": "19160",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "BTD-1毁灭者T1",
+      "wikiName": "BTD-1毁灭者T1",
+      "gameId": "19200",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "BTD-1毁灭者T2",
+      "wikiName": "BTD-1毁灭者T2",
+      "gameId": "19220",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "BTD-1毁灭者T3",
+      "wikiName": "BTD-1毁灭者T3",
+      "gameId": "19240",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "AD-1天袭者T0",
+      "wikiName": "AD-1天袭者T0",
+      "gameId": "19300",
+      "type": 9,
+      "nationality": 1,
+      "rarity": 6
+    },
+    {
+      "name": "单装102mm副炮T1",
+      "wikiName": "单装102mm副炮T1",
+      "gameId": "21000",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "单装102mm副炮T2",
+      "wikiName": "单装102mm副炮T2",
+      "gameId": "21020",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "单装102mm副炮T3",
+      "wikiName": "单装102mm副炮T3",
+      "gameId": "21040",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装102mm副炮T1",
+      "wikiName": "双联装102mm副炮T1",
+      "gameId": "21100",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "双联装102mm副炮T2",
+      "wikiName": "双联装102mm副炮T2",
+      "gameId": "21120",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装102mm副炮T3",
+      "wikiName": "双联装102mm副炮T3",
+      "gameId": "21140",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装102mm副炮Mark XVIT0",
+      "wikiName": "双联装102mm副炮Mark XVIT0",
+      "gameId": "21160",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "三联装102mm副炮T1",
+      "wikiName": "三联装102mm副炮T1",
+      "gameId": "21200",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "三联装102mm副炮T2",
+      "wikiName": "三联装102mm副炮T2",
+      "gameId": "21220",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "三联装102mm副炮T3",
+      "wikiName": "三联装102mm副炮T3",
+      "gameId": "21240",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "120mm单装炮(皇家)T1",
+      "wikiName": "120mm单装炮(皇家)T1",
+      "gameId": "21300",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "120mm单装炮(皇家)T2",
+      "wikiName": "120mm单装炮(皇家)T2",
+      "gameId": "21320",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "120mm单装炮(皇家)T3",
+      "wikiName": "120mm单装炮(皇家)T3",
+      "gameId": "21340",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装120mm主炮(皇家)T1",
+      "wikiName": "双联装120mm主炮(皇家)T1",
+      "gameId": "21400",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装120mm主炮(皇家)T2",
+      "wikiName": "双联装120mm主炮(皇家)T2",
+      "gameId": "21420",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装120mm主炮(皇家)T3",
+      "wikiName": "双联装120mm主炮(皇家)T3",
+      "gameId": "21440",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双联装120mm高平两用炮Mark XIT0",
+      "wikiName": "双联装120mm高平两用炮Mark XIT0",
+      "gameId": "21460",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装134mm高炮T1",
+      "wikiName": "双联装134mm高炮T1",
+      "gameId": "21500",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装134mm高炮T2",
+      "wikiName": "双联装134mm高炮T2",
+      "gameId": "21520",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装134mm高炮T3",
+      "wikiName": "双联装134mm高炮T3",
+      "gameId": "21540",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双联装114mm高平两用炮Mark IVT0",
+      "wikiName": "双联装114mm高平两用炮Mark IVT0",
+      "gameId": "21600",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "单装113mm高平两用炮Mark IVT0",
+      "wikiName": "单装113mm高平两用炮Mark IVT0",
+      "gameId": "21620",
+      "type": 1,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "单装152mm副炮T1",
+      "wikiName": "单装152mm副炮T1",
+      "gameId": "22000",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "单装152mm副炮T2",
+      "wikiName": "单装152mm副炮T2",
+      "gameId": "22020",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "单装152mm副炮T3",
+      "wikiName": "单装152mm副炮T3",
+      "gameId": "22040",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装152mm副炮T0",
+      "wikiName": "双联装152mm副炮T0",
+      "gameId": "22060",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装152mm主炮T1",
+      "wikiName": "双联装152mm主炮T1",
+      "gameId": "22100",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装152mm主炮T2",
+      "wikiName": "双联装152mm主炮T2",
+      "gameId": "22120",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装152mm主炮T3",
+      "wikiName": "双联装152mm主炮T3",
+      "gameId": "22140",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "三联装152mm主炮(皇家)T1",
+      "wikiName": "三联装152mm主炮(皇家)T1",
+      "gameId": "22200",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "三联装152mm主炮(皇家)T2",
+      "wikiName": "三联装152mm主炮(皇家)T2",
+      "gameId": "22220",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "三联装152mm主炮(皇家)T3",
+      "wikiName": "三联装152mm主炮(皇家)T3",
+      "gameId": "22240",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装152mm主炮T0",
+      "wikiName": "试作型三联装152mm主炮T0",
+      "gameId": "22260",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "试作型四联装152mm主炮T0",
+      "wikiName": "试作型四联装152mm主炮T0",
+      "gameId": "22280",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "双联装152mm主炮Mk.XXVIT3",
+      "wikiName": "双联装152mm主炮Mk.XXVIT3",
+      "gameId": "22300",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装152mm主炮Mk.XXVIT0",
+      "wikiName": "双联装152mm主炮Mk.XXVIT0",
+      "gameId": "22320",
+      "type": 2,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "双联装203mm主炮T1",
+      "wikiName": "双联装203mm主炮T1",
+      "gameId": "23000",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装203mm主炮T2",
+      "wikiName": "双联装203mm主炮T2",
+      "gameId": "23020",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装203mm主炮T3",
+      "wikiName": "双联装203mm主炮T3",
+      "gameId": "23040",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "试作型双联装234mm主炮T0",
+      "wikiName": "试作型双联装234mm主炮T0",
+      "gameId": "23100",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装234mm主炮T0",
+      "wikiName": "试作型三联装234mm主炮T0",
+      "gameId": "23120",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "试作型三联装203mm主炮Mark IXT0",
+      "wikiName": "试作型三联装203mm主炮Mark IXT0",
+      "gameId": "23200",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装203mm主炮Mark XT0",
+      "wikiName": "试作型三联装203mm主炮Mark XT0",
+      "gameId": "23220",
+      "type": 3,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "四联装356mm主炮T1",
+      "wikiName": "四联装356mm主炮T1",
+      "gameId": "24000",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "四联装356mm主炮T2",
+      "wikiName": "四联装356mm主炮T2",
+      "gameId": "24020",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "四联装356mm主炮T3",
+      "wikiName": "四联装356mm主炮T3",
+      "gameId": "24040",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装356mm主炮T0",
+      "wikiName": "双联装356mm主炮T0",
+      "gameId": "24060",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双联装381mm主炮T1",
+      "wikiName": "双联装381mm主炮T1",
+      "gameId": "24100",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装381mm主炮T2",
+      "wikiName": "双联装381mm主炮T2",
+      "gameId": "24120",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装381mm主炮T3",
+      "wikiName": "双联装381mm主炮T3",
+      "gameId": "24140",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装381mm主炮T0",
+      "wikiName": "试作型三联装381mm主炮T0",
+      "gameId": "24160",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "三联装406mm主炮T1",
+      "wikiName": "三联装406mm主炮T1",
+      "gameId": "24200",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "三联装406mm主炮T2",
+      "wikiName": "三联装406mm主炮T2",
+      "gameId": "24220",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "三联装406mm主炮T3",
+      "wikiName": "三联装406mm主炮T3",
+      "gameId": "24240",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装381mm主炮改T1",
+      "wikiName": "双联装381mm主炮改T1",
+      "gameId": "24300",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装381mm主炮改T2",
+      "wikiName": "双联装381mm主炮改T2",
+      "gameId": "24320",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双联装381mm主炮改T0",
+      "wikiName": "双联装381mm主炮改T0",
+      "gameId": "24340",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装406mm主炮Mk.IIT0",
+      "wikiName": "试作型三联装406mm主炮Mk.IIT0",
+      "gameId": "24400",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "试作型三联装419mm主炮MK.IT0",
+      "wikiName": "试作型三联装419mm主炮MK.IT0",
+      "gameId": "24420",
+      "type": 4,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "三联装533mm鱼雷Mark IXT0",
+      "wikiName": "三联装533mm鱼雷Mark IXT0",
+      "gameId": "25000",
+      "type": 5,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "四联装533mm鱼雷Mark IXT0",
+      "wikiName": "四联装533mm鱼雷Mark IXT0",
+      "gameId": "25020",
+      "type": 5,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "五联装533mm鱼雷Mark IXT0",
+      "wikiName": "五联装533mm鱼雷Mark IXT0",
+      "gameId": "25040",
+      "type": 5,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用Mark VIII鱼雷T1",
+      "wikiName": "潜艇用Mark VIII鱼雷T1",
+      "gameId": "25100",
+      "type": 13,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "潜艇用Mark VIII鱼雷T2",
+      "wikiName": "潜艇用Mark VIII鱼雷T2",
+      "gameId": "25120",
+      "type": 13,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用Mark VIII鱼雷T3",
+      "wikiName": "潜艇用Mark VIII鱼雷T3",
+      "gameId": "25140",
+      "type": 13,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用Mark 12鱼雷-菲里T0",
+      "wikiName": "潜艇用Mark 12鱼雷-菲里T0",
+      "gameId": "25200",
+      "type": 13,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用Mark 20 S鱼雷-彼得T0",
+      "wikiName": "潜艇用Mark 20 S鱼雷-彼得T0",
+      "gameId": "25300",
+      "type": 13,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "刺猬弹T0",
+      "wikiName": "刺猬弹T0",
+      "gameId": "25800",
+      "type": 14,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装40mm“砰砰”炮T1",
+      "wikiName": "双联装40mm“砰砰”炮T1",
+      "gameId": "26000",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "双联装40mm“砰砰”炮T2",
+      "wikiName": "双联装40mm“砰砰”炮T2",
+      "gameId": "26020",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "双联装40mm“砰砰”炮T3",
+      "wikiName": "双联装40mm“砰砰”炮T3",
+      "gameId": "26040",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装40mm博福斯对空机炮Mark IT0",
+      "wikiName": "双联装40mm博福斯对空机炮Mark IT0",
+      "gameId": "26060",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "四联装40mm“砰砰”炮T1",
+      "wikiName": "四联装40mm“砰砰”炮T1",
+      "gameId": "26100",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "四联装40mm“砰砰”炮T2",
+      "wikiName": "四联装40mm“砰砰”炮T2",
+      "gameId": "26120",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "四联装40mm“砰砰”炮T3",
+      "wikiName": "四联装40mm“砰砰”炮T3",
+      "gameId": "26140",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "八联装40mm“砰砰”炮T1",
+      "wikiName": "八联装40mm“砰砰”炮T1",
+      "gameId": "26200",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "八联装40mm“砰砰”炮T2",
+      "wikiName": "八联装40mm“砰砰”炮T2",
+      "gameId": "26220",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "八联装40mm“砰砰”炮T3",
+      "wikiName": "八联装40mm“砰砰”炮T3",
+      "gameId": "26240",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "76mm高射炮(白鹰)T1",
+      "wikiName": "76mm高射炮(白鹰)T1",
+      "gameId": "26300",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 2
+    },
+    {
+      "name": "76mm高射炮(白鹰)T2",
+      "wikiName": "76mm高射炮(白鹰)T2",
+      "gameId": "26320",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 3
+    },
+    {
+      "name": "76mm高射炮(白鹰)T3",
+      "wikiName": "76mm高射炮(白鹰)T3",
+      "gameId": "26340",
+      "type": 6,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "20mm厄利孔高射炮Mark IIT0",
+      "wikiName": "20mm厄利孔高射炮Mark IIT0",
+      "gameId": "26360",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双管20mm厄利孔高射炮Mark VT0",
+      "wikiName": "双管20mm厄利孔高射炮Mark VT0",
+      "gameId": "26380",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "102mm高射炮T1",
+      "wikiName": "102mm高射炮T1",
+      "gameId": "26400",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "102mm高射炮T2",
+      "wikiName": "102mm高射炮T2",
+      "gameId": "26420",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "102mm高射炮T3",
+      "wikiName": "102mm高射炮T3",
+      "gameId": "26440",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "120mm高射炮Mark VIIIT0",
+      "wikiName": "120mm高射炮Mark VIIIT0",
+      "gameId": "26460",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双联装113mm高射炮T1",
+      "wikiName": "双联装113mm高射炮T1",
+      "gameId": "26500",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "双联装113mm高射炮T2",
+      "wikiName": "双联装113mm高射炮T2",
+      "gameId": "26520",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "双联装113mm高射炮T3",
+      "wikiName": "双联装113mm高射炮T3",
+      "gameId": "26540",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装40mm博福斯STAAGT0",
+      "wikiName": "双联装40mm博福斯STAAGT0",
+      "gameId": "26600",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装40mm博福斯海兹梅耶T0",
+      "wikiName": "双联装40mm博福斯海兹梅耶T0",
+      "gameId": "26620",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装134mm高炮T0",
+      "wikiName": "双联装134mm高炮T0",
+      "gameId": "26640",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "六联装40mm博福斯对空机炮T0",
+      "wikiName": "六联装40mm博福斯对空机炮T0",
+      "gameId": "26660",
+      "type": 6,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "双联装134mm高炮(定时引信)T0",
+      "wikiName": "双联装134mm高炮(定时引信)T0",
+      "gameId": "26680",
+      "type": 21,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "海喷火T1",
+      "wikiName": "海喷火T1",
+      "gameId": "27000",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "海喷火T2",
+      "wikiName": "海喷火T2",
+      "gameId": "27020",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "海喷火T3",
+      "wikiName": "海喷火T3",
+      "gameId": "27040",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "海喷火FR.47T0",
+      "wikiName": "海喷火FR.47T0",
+      "gameId": "27060",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "海毒牙T1",
+      "wikiName": "海毒牙T1",
+      "gameId": "27100",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "海毒牙T2",
+      "wikiName": "海毒牙T2",
+      "gameId": "27120",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "海毒牙T3",
+      "wikiName": "海毒牙T3",
+      "gameId": "27140",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "海斗士T1",
+      "wikiName": "海斗士T1",
+      "gameId": "27200",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "海斗士T2",
+      "wikiName": "海斗士T2",
+      "gameId": "27220",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "海斗士T3",
+      "wikiName": "海斗士T3",
+      "gameId": "27240",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "海飓风T3",
+      "wikiName": "海飓风T3",
+      "gameId": "27260",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "海怒T0",
+      "wikiName": "海怒T0",
+      "gameId": "27300",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "海大黄蜂T0",
+      "wikiName": "海大黄蜂T0",
+      "gameId": "27320",
+      "type": 7,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "剑鱼T1",
+      "wikiName": "剑鱼T1",
+      "gameId": "28000",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "剑鱼T2",
+      "wikiName": "剑鱼T2",
+      "gameId": "28020",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "剑鱼T3",
+      "wikiName": "剑鱼T3",
+      "gameId": "28040",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "剑鱼(818中队)T0",
+      "wikiName": "剑鱼(818中队)T0",
+      "gameId": "28060",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "梭鱼T1",
+      "wikiName": "梭鱼T1",
+      "gameId": "28100",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "梭鱼T2",
+      "wikiName": "梭鱼T2",
+      "gameId": "28120",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "梭鱼T3",
+      "wikiName": "梭鱼T3",
+      "gameId": "28140",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "火把T0",
+      "wikiName": "火把T0",
+      "gameId": "28200",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "火冠T0",
+      "wikiName": "火冠T0",
+      "gameId": "28220",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "青花鱼T1",
+      "wikiName": "青花鱼T1",
+      "gameId": "28300",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "青花鱼T2",
+      "wikiName": "青花鱼T2",
+      "gameId": "28320",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "青花鱼T3",
+      "wikiName": "青花鱼T3",
+      "gameId": "28340",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "飞龙T0",
+      "wikiName": "飞龙(鱼雷机)T0",
+      "gameId": "28400",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "试作型旗鱼T0",
+      "wikiName": "试作型旗鱼T0",
+      "gameId": "28420",
+      "type": 8,
+      "nationality": 2,
+      "rarity": 6
+    },
+    {
+      "name": "贼鸥T1",
+      "wikiName": "贼鸥T1",
+      "gameId": "29000",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 1
+    },
+    {
+      "name": "贼鸥T2",
+      "wikiName": "贼鸥T2",
+      "gameId": "29020",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "贼鸥T3",
+      "wikiName": "贼鸥T3",
+      "gameId": "29040",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "海燕T1",
+      "wikiName": "海燕T1",
+      "gameId": "29100",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 2
+    },
+    {
+      "name": "海燕T2",
+      "wikiName": "海燕T2",
+      "gameId": "29120",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 3
+    },
+    {
+      "name": "海燕T3",
+      "wikiName": "海燕T3",
+      "gameId": "29140",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 4
+    },
+    {
+      "name": "萤火虫T0",
+      "wikiName": "萤火虫(轰炸机)T0",
+      "gameId": "29200",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "萤火虫(1771中队)T0",
+      "wikiName": "萤火虫(1771中队)T0",
+      "gameId": "29220",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "梭鱼(831中队)T0",
+      "wikiName": "梭鱼(831中队)T0",
+      "gameId": "29300",
+      "type": 9,
+      "nationality": 2,
+      "rarity": 5
+    },
+    {
+      "name": "305mm连装炮T0",
+      "wikiName": "305mm连装炮T0",
+      "gameId": "30000",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "双联100mm98式高射炮T1",
+      "wikiName": "双联100mm98式高射炮T1",
+      "gameId": "31000",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "双联100mm98式高射炮T2",
+      "wikiName": "双联100mm98式高射炮T2",
+      "gameId": "31020",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "双联100mm98式高射炮T3",
+      "wikiName": "双联100mm98式高射炮T3",
+      "gameId": "31040",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "100mm88式火炮T0",
+      "wikiName": "100mm88式火炮T0",
+      "gameId": "31060",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "双联100mm98式高射炮改T0",
+      "wikiName": "双联100mm98式高射炮改T0",
+      "gameId": "31080",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "120mm单装炮(重樱)T1",
+      "wikiName": "120mm单装炮(重樱)T1",
+      "gameId": "31100",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "120mm单装炮(重樱)T2",
+      "wikiName": "120mm单装炮(重樱)T2",
+      "gameId": "31120",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "120mm单装炮(重樱)T3",
+      "wikiName": "120mm单装炮(重樱)T3",
+      "gameId": "31140",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "十一年式120mm单装炮T0",
+      "wikiName": "十一年式120mm单装炮T0",
+      "gameId": "31160",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "120mm单装高角炮T0",
+      "wikiName": "120mm单装高角炮T0",
+      "gameId": "31180",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "127mm连装炮T1",
+      "wikiName": "127mm连装炮T1",
+      "gameId": "31200",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "127mm连装炮T2",
+      "wikiName": "127mm连装炮T2",
+      "gameId": "31220",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "127mm连装炮T3",
+      "wikiName": "127mm连装炮T3",
+      "gameId": "31240",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "127mm单装两用炮T0",
+      "wikiName": "127mm单装两用炮T0",
+      "gameId": "31260",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "127mm连装炮改T0",
+      "wikiName": "127mm连装炮改T0",
+      "gameId": "31280",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "127mm连装炮（D型）T0",
+      "wikiName": "127mm连装炮（D型）T0",
+      "gameId": "31300",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型五式127mm连装炮T0",
+      "wikiName": "试作型五式127mm连装炮T0",
+      "gameId": "31320",
+      "type": 1,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "140mm单装炮T1",
+      "wikiName": "140mm单装炮T1",
+      "gameId": "32000",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "140mm单装炮T2",
+      "wikiName": "140mm单装炮T2",
+      "gameId": "32020",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "140mm单装炮T3",
+      "wikiName": "140mm单装炮T3",
+      "gameId": "32040",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "152mm单装炮T3",
+      "wikiName": "152mm单装炮T3",
+      "gameId": "32060",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "140mm连装炮T1",
+      "wikiName": "140mm连装炮T1",
+      "gameId": "32100",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "140mm连装炮T2",
+      "wikiName": "140mm连装炮T2",
+      "gameId": "32120",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "140mm连装炮T3",
+      "wikiName": "140mm连装炮T3",
+      "gameId": "32140",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "155mm三连装炮T1",
+      "wikiName": "155mm三连装炮T1",
+      "gameId": "32200",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "155mm三连装炮T2",
+      "wikiName": "155mm三连装炮T2",
+      "gameId": "32220",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "155mm三连装炮T3",
+      "wikiName": "155mm三连装炮T3",
+      "gameId": "32240",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型155mm三连装炮改T0",
+      "wikiName": "试作型155mm三连装炮改T0",
+      "gameId": "32260",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "152mm连装炮T1",
+      "wikiName": "152mm连装炮T1",
+      "gameId": "32300",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "152mm连装炮T2",
+      "wikiName": "152mm连装炮T2",
+      "gameId": "32320",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "152mm连装炮T3",
+      "wikiName": "152mm连装炮T3",
+      "gameId": "32340",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装150mm五式高平两用炮T0",
+      "wikiName": "试作型三联装150mm五式高平两用炮T0",
+      "gameId": "32360",
+      "type": 2,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "203mm连装炮T1",
+      "wikiName": "203mm连装炮T1",
+      "gameId": "33000",
+      "type": 3,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "203mm连装炮T2",
+      "wikiName": "203mm连装炮T2",
+      "gameId": "33020",
+      "type": 3,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "203mm连装炮T3",
+      "wikiName": "203mm连装炮T3",
+      "gameId": "33040",
+      "type": 3,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "试作型203mm(3号)连装炮T0",
+      "wikiName": "试作型203mm(3号)连装炮T0",
+      "gameId": "33060",
+      "type": 3,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "203mm连装炮改T3",
+      "wikiName": "203mm连装炮改T3",
+      "gameId": "33080",
+      "type": 3,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装310mm主炮T0",
+      "wikiName": "试作型三联装310mm主炮T0",
+      "gameId": "33100",
+      "type": 11,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型203mm/55三连装主炮T0",
+      "wikiName": "试作型203mm/55三连装主炮T0",
+      "gameId": "33120",
+      "type": 3,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "356mm连装炮T1",
+      "wikiName": "356mm连装炮T1",
+      "gameId": "34000",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "356mm连装炮T2",
+      "wikiName": "356mm连装炮T2",
+      "gameId": "34020",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "356mm连装炮T3",
+      "wikiName": "356mm连装炮T3",
+      "gameId": "34040",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "356mm毘式连装炮T0",
+      "wikiName": "356mm毘式连装炮T0",
+      "gameId": "34060",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "410mm连装炮T1",
+      "wikiName": "410mm连装炮T1",
+      "gameId": "34100",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "410mm连装炮T2",
+      "wikiName": "410mm连装炮T2",
+      "gameId": "34120",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "410mm连装炮T3",
+      "wikiName": "410mm连装炮T3",
+      "gameId": "34140",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "410mm连装炮(三式弹)T0",
+      "wikiName": "410mm连装炮(三式弹)T0",
+      "gameId": "34160",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型410mm三连装炮T0",
+      "wikiName": "试作型410mm三连装炮T0",
+      "gameId": "34180",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "460mm三连装炮T1",
+      "wikiName": "460mm三连装炮T1",
+      "gameId": "34200",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "460mm三连装炮T2",
+      "wikiName": "460mm三连装炮T2",
+      "gameId": "34220",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "460mm三连装炮T0",
+      "wikiName": "460mm三连装炮T0",
+      "gameId": "34240",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "410mm连装炮改T0",
+      "wikiName": "410mm连装炮改T0",
+      "gameId": "34300",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "试作型双联装410mm主炮Mod.AT0",
+      "wikiName": "试作型双联装410mm主炮Mod.AT0",
+      "gameId": "34320",
+      "type": 4,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "双联装610mm鱼雷T1",
+      "wikiName": "双联装610mm鱼雷T1",
+      "gameId": "35000",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "双联装610mm鱼雷T2",
+      "wikiName": "双联装610mm鱼雷T2",
+      "gameId": "35020",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "双联装610mm鱼雷T3",
+      "wikiName": "双联装610mm鱼雷T3",
+      "gameId": "35040",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "三联装610mm鱼雷T1",
+      "wikiName": "三联装610mm鱼雷T1",
+      "gameId": "35100",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "三联装610mm鱼雷T2",
+      "wikiName": "三联装610mm鱼雷T2",
+      "gameId": "35120",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "三联装610mm鱼雷T3",
+      "wikiName": "三联装610mm鱼雷T3",
+      "gameId": "35140",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "三联装610mm鱼雷改T3",
+      "wikiName": "三联装610mm鱼雷改T3",
+      "gameId": "35160",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "四联装610mm鱼雷T1",
+      "wikiName": "四联装610mm鱼雷T1",
+      "gameId": "35200",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "四联装610mm鱼雷T2",
+      "wikiName": "四联装610mm鱼雷T2",
+      "gameId": "35220",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "四联装610mm鱼雷T3",
+      "wikiName": "四联装610mm鱼雷T3",
+      "gameId": "35240",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "四联装610mm鱼雷改T0",
+      "wikiName": "四联装610mm鱼雷改T0",
+      "gameId": "35260",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型四联装610mm鱼雷（巡洋用）T0",
+      "wikiName": "试作型四联装610mm鱼雷（巡洋用）T0",
+      "gameId": "35280",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "五联装610mm鱼雷T1",
+      "wikiName": "五联装610mm鱼雷T1",
+      "gameId": "35300",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "五联装610mm鱼雷T2",
+      "wikiName": "五联装610mm鱼雷T2",
+      "gameId": "35320",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "五联装610mm鱼雷T0",
+      "wikiName": "五联装610mm鱼雷T0",
+      "gameId": "35340",
+      "type": 5,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "潜艇用92式潜射鱼雷T1",
+      "wikiName": "潜艇用92式潜射鱼雷T1",
+      "gameId": "35400",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "潜艇用92式潜射鱼雷T2",
+      "wikiName": "潜艇用92式潜射鱼雷T2",
+      "gameId": "35420",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用92式潜射鱼雷T3",
+      "wikiName": "潜艇用92式潜射鱼雷T3",
+      "gameId": "35440",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用92式潜射鱼雷改T0",
+      "wikiName": "潜艇用92式潜射鱼雷改T0",
+      "gameId": "35460",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用95式纯氧鱼雷T1",
+      "wikiName": "潜艇用95式纯氧鱼雷T1",
+      "gameId": "35500",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用95式纯氧鱼雷T2",
+      "wikiName": "潜艇用95式纯氧鱼雷T2",
+      "gameId": "35520",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用95式纯氧鱼雷T3",
+      "wikiName": "潜艇用95式纯氧鱼雷T3",
+      "gameId": "35540",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用96式纯氧鱼雷T3",
+      "wikiName": "潜艇用96式纯氧鱼雷T3",
+      "gameId": "35560",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用95式纯氧鱼雷改T0",
+      "wikiName": "潜艇用95式纯氧鱼雷改T0",
+      "gameId": "35580",
+      "type": 13,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "25mm高射机枪T1",
+      "wikiName": "25mm高射机枪T1",
+      "gameId": "36100",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "25mm高射机枪T2",
+      "wikiName": "25mm高射机枪T2",
+      "gameId": "36120",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "25mm高射机枪T3",
+      "wikiName": "25mm高射机枪T3",
+      "gameId": "36140",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "25mm连装高射机枪T1",
+      "wikiName": "25mm连装高射机枪T1",
+      "gameId": "36200",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "25mm连装高射机枪T2",
+      "wikiName": "25mm连装高射机枪T2",
+      "gameId": "36220",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "25mm连装高射机枪T3",
+      "wikiName": "25mm连装高射机枪T3",
+      "gameId": "36240",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "25mm三连装高射机枪T1",
+      "wikiName": "25mm三连装高射机枪T1",
+      "gameId": "36300",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "25mm三连装高射机枪T2",
+      "wikiName": "25mm三连装高射机枪T2",
+      "gameId": "36320",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "25mm三连装高射机枪T3",
+      "wikiName": "25mm三连装高射机枪T3",
+      "gameId": "36340",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "九六式25mm三连装暴风避盾机炮T0",
+      "wikiName": "九六式25mm三连装暴风避盾机炮T0",
+      "gameId": "36360",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "毘式40mm连装机枪T1",
+      "wikiName": "毘式40mm连装机枪T1",
+      "gameId": "36400",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "毘式40mm连装机枪T2",
+      "wikiName": "毘式40mm连装机枪T2",
+      "gameId": "36420",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "毘式40mm连装机枪T3",
+      "wikiName": "毘式40mm连装机枪T3",
+      "gameId": "36440",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "76mm高射炮(重樱)T1",
+      "wikiName": "76mm高射炮(重樱)T1",
+      "gameId": "36500",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "76mm高射炮(重樱)T2",
+      "wikiName": "76mm高射炮(重樱)T2",
+      "gameId": "36520",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "76mm高射炮(重樱)T3",
+      "wikiName": "76mm高射炮(重樱)T3",
+      "gameId": "36540",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "100mm连装高炮T0",
+      "wikiName": "100mm连装高炮T0",
+      "gameId": "36560",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "80mm高射炮T0",
+      "wikiName": "80mm高射炮T0",
+      "gameId": "36580",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "127mm连装高射炮T1",
+      "wikiName": "127mm连装高射炮T1",
+      "gameId": "36600",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "127mm连装高射炮T2",
+      "wikiName": "127mm连装高射炮T2",
+      "gameId": "36620",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "127mm连装高射炮T3",
+      "wikiName": "127mm连装高射炮T3",
+      "gameId": "36640",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "127mm连装高角炮改T0",
+      "wikiName": "127mm连装高角炮改T0",
+      "gameId": "36660",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型五式40mm高射机关炮T0",
+      "wikiName": "试作型五式40mm高射机关炮T0",
+      "gameId": "36700",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "127mm连装高角炮改(定时引信)T0",
+      "wikiName": "127mm连装高角炮改(定时引信)T0",
+      "gameId": "36720",
+      "type": 21,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "80mm98式连装高炮T0",
+      "wikiName": "80mm98式连装高炮T0",
+      "gameId": "36740",
+      "type": 6,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "九六式舰战T1",
+      "wikiName": "九六式舰战T1",
+      "gameId": "37000",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "九六式舰战T2",
+      "wikiName": "九六式舰战T2",
+      "gameId": "37020",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "九六式舰战T3",
+      "wikiName": "九六式舰战T3",
+      "gameId": "37040",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "零战二一型T1",
+      "wikiName": "零战二一型T1",
+      "gameId": "37100",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "零战二一型T2",
+      "wikiName": "零战二一型T2",
+      "gameId": "37120",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "零战二一型T3",
+      "wikiName": "零战二一型T3",
+      "gameId": "37140",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "零战三二型T0",
+      "wikiName": "零战三二型T0",
+      "gameId": "37160",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "零战五二型T1",
+      "wikiName": "零战五二型T1",
+      "gameId": "37200",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "零战五二型T2",
+      "wikiName": "零战五二型T2",
+      "gameId": "37220",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "零战五二型T3",
+      "wikiName": "零战五二型T3",
+      "gameId": "37240",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "烈风T1",
+      "wikiName": "烈风T1",
+      "gameId": "37300",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "烈风T2",
+      "wikiName": "烈风T2",
+      "gameId": "37320",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "烈风T3",
+      "wikiName": "烈风T3",
+      "gameId": "37340",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "紫电改二T0",
+      "wikiName": "紫电改二T0",
+      "gameId": "37400",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "二式水上战斗机T0",
+      "wikiName": "二式水上战斗机T0",
+      "gameId": "37420",
+      "type": 12,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "强风T0",
+      "wikiName": "强风T0",
+      "gameId": "37440",
+      "type": 12,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "试作型紫电改四T0",
+      "wikiName": "试作型紫电改四T0",
+      "gameId": "37460",
+      "type": 7,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "九七式舰攻T1",
+      "wikiName": "九七式舰攻T1",
+      "gameId": "38000",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 1
+    },
+    {
+      "name": "九七式舰攻T2",
+      "wikiName": "九七式舰攻T2",
+      "gameId": "38020",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "九七式舰攻T3",
+      "wikiName": "九七式舰攻T3",
+      "gameId": "38040",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "九七式舰攻改T0",
+      "wikiName": "九七式舰攻改T0",
+      "gameId": "38060",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "天山T1",
+      "wikiName": "天山T1",
+      "gameId": "38100",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "天山T2",
+      "wikiName": "天山T2",
+      "gameId": "38120",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "天山T3",
+      "wikiName": "天山T3",
+      "gameId": "38140",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "天山改T0",
+      "wikiName": "天山改T0",
+      "gameId": "38160",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "流星T1",
+      "wikiName": "流星T1",
+      "gameId": "38200",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "流星T2",
+      "wikiName": "流星T2",
+      "gameId": "38220",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "流星T3",
+      "wikiName": "流星T3",
+      "gameId": "38240",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "流星改T0",
+      "wikiName": "流星改T0",
+      "gameId": "38260",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作型彩云(舰攻型)T0",
+      "wikiName": "试作型彩云(舰攻型)T0",
+      "gameId": "38300",
+      "type": 8,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "九九式舰爆T1",
+      "wikiName": "九九式舰爆T1",
+      "gameId": "39000",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "九九式舰爆T2",
+      "wikiName": "九九式舰爆T2",
+      "gameId": "39020",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "九九式舰爆T3",
+      "wikiName": "九九式舰爆T3",
+      "gameId": "39040",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "九九式舰爆改T0",
+      "wikiName": "九九式舰爆改T0",
+      "gameId": "39060",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "彗星T1",
+      "wikiName": "彗星(轰炸机)T1",
+      "gameId": "39100",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "彗星T2",
+      "wikiName": "彗星(轰炸机)T2",
+      "gameId": "39120",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "彗星T3",
+      "wikiName": "彗星(轰炸机)T3",
+      "gameId": "39140",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "彗星一二型甲T0",
+      "wikiName": "彗星一二型甲T0",
+      "gameId": "39160",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "瑞云T1",
+      "wikiName": "瑞云T1",
+      "gameId": "39200",
+      "type": 12,
+      "nationality": 3,
+      "rarity": 2
+    },
+    {
+      "name": "瑞云T2",
+      "wikiName": "瑞云T2",
+      "gameId": "39220",
+      "type": 12,
+      "nationality": 3,
+      "rarity": 3
+    },
+    {
+      "name": "瑞云T3",
+      "wikiName": "瑞云T3",
+      "gameId": "39240",
+      "type": 12,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "晴岚T0",
+      "wikiName": "晴岚T0",
+      "gameId": "39300",
+      "type": 12,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "彗星二一型T0",
+      "wikiName": "彗星二一型T0",
+      "gameId": "39320",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型天雷T0",
+      "wikiName": "试作舰载型天雷T0",
+      "gameId": "39340",
+      "type": 9,
+      "nationality": 3,
+      "rarity": 6
+    },
+    {
+      "name": "单装127mm主炮T1",
+      "wikiName": "单装127mm主炮T1",
+      "gameId": "41000",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 1
+    },
+    {
+      "name": "单装127mm主炮T2",
+      "wikiName": "单装127mm主炮T2",
+      "gameId": "41020",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "单装127mm主炮T3",
+      "wikiName": "单装127mm主炮T3",
+      "gameId": "41040",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联装127mmKM40主炮T0",
+      "wikiName": "双联装127mmKM40主炮T0",
+      "gameId": "41060",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联装128mmSKC41高平两用炮T1",
+      "wikiName": "双联装128mmSKC41高平两用炮T1",
+      "gameId": "41100",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "双联装128mmSKC41高平两用炮T2",
+      "wikiName": "双联装128mmSKC41高平两用炮T2",
+      "gameId": "41120",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联装128mmSKC41高平两用炮T3",
+      "wikiName": "双联装128mmSKC41高平两用炮T3",
+      "gameId": "41140",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联装128mmSKC41高平两用炮改T0",
+      "wikiName": "双联装128mmSKC41高平两用炮改T0",
+      "gameId": "41160",
+      "type": 1,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "单装SKC28式150mm主炮T1",
+      "wikiName": "单装SKC28式150mm主炮T1",
+      "gameId": "42000",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "单装SKC28式150mm主炮T2",
+      "wikiName": "单装SKC28式150mm主炮T2",
+      "gameId": "42020",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "单装SKC28式150mm主炮T3",
+      "wikiName": "单装SKC28式150mm主炮T3",
+      "gameId": "42040",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联装SKC28式150mm副炮T0",
+      "wikiName": "双联装SKC28式150mm副炮T0",
+      "gameId": "42060",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "试作型双联装SKC28式150mm主炮改T0",
+      "wikiName": "试作型双联装SKC28式150mm主炮改T0",
+      "gameId": "42080",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "三联装SKC25式150mm主炮T1",
+      "wikiName": "三联装SKC25式150mm主炮T1",
+      "gameId": "42100",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "三联装SKC25式150mm主炮T2",
+      "wikiName": "三联装SKC25式150mm主炮T2",
+      "gameId": "42120",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "三联装SKC25式150mm主炮T3",
+      "wikiName": "三联装SKC25式150mm主炮T3",
+      "gameId": "42140",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "三联装SKC25式150mm主炮改T0",
+      "wikiName": "三联装SKC25式150mm主炮改T0",
+      "gameId": "42160",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联装TbtsKC36式150mm主炮T1",
+      "wikiName": "双联装TbtsKC36式150mm主炮T1",
+      "gameId": "42200",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "双联装TbtsKC36式150mm主炮T2",
+      "wikiName": "双联装TbtsKC36式150mm主炮T2",
+      "gameId": "42220",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联装TbtsKC36式150mm主炮T3",
+      "wikiName": "双联装TbtsKC36式150mm主炮T3",
+      "gameId": "42240",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "单装TbtsKC36式150mm主炮T1",
+      "wikiName": "单装TbtsKC36式150mm主炮T1",
+      "gameId": "42300",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "单装TbtsKC36式150mm主炮T3",
+      "wikiName": "单装TbtsKC36式150mm主炮T3",
+      "gameId": "42340",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "试作型双联装TbtsKC42T式150mm主炮T0",
+      "wikiName": "试作型双联装TbtsKC42T式150mm主炮T0",
+      "gameId": "42360",
+      "type": 2,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "双联装203mmSKC主炮T1",
+      "wikiName": "双联装203mmSKC主炮T1",
+      "gameId": "43000",
+      "type": 3,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联装203mmSKC主炮T2",
+      "wikiName": "双联装203mmSKC主炮T2",
+      "gameId": "43020",
+      "type": 3,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联装203mmSKC主炮T3",
+      "wikiName": "双联装203mmSKC主炮T3",
+      "gameId": "43040",
+      "type": 3,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装203mmSKC主炮T0",
+      "wikiName": "试作型三联装203mmSKC主炮T0",
+      "gameId": "43060",
+      "type": 3,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "双联装203mmSKC主炮改T0",
+      "wikiName": "双联装203mmSKC主炮改T0",
+      "gameId": "43080",
+      "type": 3,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "三联283mmSKC28主炮T1",
+      "wikiName": "三联283mmSKC28主炮T1",
+      "gameId": "43100",
+      "type": 11,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "三联283mmSKC28主炮T2",
+      "wikiName": "三联283mmSKC28主炮T2",
+      "gameId": "43120",
+      "type": 11,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "三联283mmSKC28主炮T3",
+      "wikiName": "三联283mmSKC28主炮T3",
+      "gameId": "43140",
+      "type": 11,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装203mmSKC主炮改T0",
+      "wikiName": "试作型三联装203mmSKC主炮改T0",
+      "gameId": "43160",
+      "type": 3,
+      "nationality": 4,
+      "rarity": 6
+    },
+    {
+      "name": "三联283mmSKC34主炮T1",
+      "wikiName": "三联283mmSKC34主炮T1",
+      "gameId": "44000",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "三联283mmSKC34主炮T2",
+      "wikiName": "三联283mmSKC34主炮T2",
+      "gameId": "44020",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "三联283mmSKC34主炮T3",
+      "wikiName": "三联283mmSKC34主炮T3",
+      "gameId": "44040",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联380mmSKC主炮T1",
+      "wikiName": "双联380mmSKC主炮T1",
+      "gameId": "44100",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联380mmSKC主炮T2",
+      "wikiName": "双联380mmSKC主炮T2",
+      "gameId": "44120",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联380mmSKC主炮T3",
+      "wikiName": "双联380mmSKC主炮T3",
+      "gameId": "44140",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型双联装406mmSKC主炮T0",
+      "wikiName": "试作型双联装406mmSKC主炮T0",
+      "gameId": "44200",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装305mmSKC39主炮T0",
+      "wikiName": "试作型三联装305mmSKC39主炮T0",
+      "gameId": "44300",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型四联装305mmSKC39主炮T0",
+      "wikiName": "试作型四联装305mmSKC39主炮T0",
+      "gameId": "44320",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 6
+    },
+    {
+      "name": "试作型三联装305mmSKC39主炮(超巡用)T0",
+      "wikiName": "试作型三联装305mmSKC39主炮(超巡用)T0",
+      "gameId": "44400",
+      "type": 11,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装283mm/54.5主炮T0",
+      "wikiName": "试作型三联装283mm/54.5主炮T0",
+      "gameId": "44420",
+      "type": 11,
+      "nationality": 11,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装380mmSKC主炮T0",
+      "wikiName": "试作型三联装380mmSKC主炮T0",
+      "gameId": "44500",
+      "type": 4,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "三联装533mm磁性鱼雷T1",
+      "wikiName": "三联装533mm磁性鱼雷T1",
+      "gameId": "45000",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "三联装533mm磁性鱼雷T2",
+      "wikiName": "三联装533mm磁性鱼雷T2",
+      "gameId": "45020",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "三联装533mm磁性鱼雷T3",
+      "wikiName": "三联装533mm磁性鱼雷T3",
+      "gameId": "45040",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "四联装533mm磁性鱼雷T1",
+      "wikiName": "四联装533mm磁性鱼雷T1",
+      "gameId": "45100",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "四联装533mm磁性鱼雷T2",
+      "wikiName": "四联装533mm磁性鱼雷T2",
+      "gameId": "45120",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "四联装533mm磁性鱼雷T3",
+      "wikiName": "四联装533mm磁性鱼雷T3",
+      "gameId": "45140",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "四联装533mm磁性鱼雷改T0",
+      "wikiName": "四联装533mm磁性鱼雷改T0",
+      "gameId": "45160",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "五联装533mm磁性鱼雷T1",
+      "wikiName": "五联装533mm磁性鱼雷T1",
+      "gameId": "45200",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "五联装533mm磁性鱼雷T2",
+      "wikiName": "五联装533mm磁性鱼雷T2",
+      "gameId": "45220",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "五联装533mm磁性鱼雷T3",
+      "wikiName": "五联装533mm磁性鱼雷T3",
+      "gameId": "45240",
+      "type": 5,
+      "nationality": 4,
+      "rarity": 6
+    },
+    {
+      "name": "潜艇用G7a鱼雷T1",
+      "wikiName": "潜艇用G7a鱼雷T1",
+      "gameId": "45300",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "潜艇用G7a鱼雷T2",
+      "wikiName": "潜艇用G7a鱼雷T2",
+      "gameId": "45320",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用G7a鱼雷T3",
+      "wikiName": "潜艇用G7a鱼雷T3",
+      "gameId": "45340",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用G7e声导鱼雷T1",
+      "wikiName": "潜艇用G7e声导鱼雷T1",
+      "gameId": "45400",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "潜艇用G7e声导鱼雷T2",
+      "wikiName": "潜艇用G7e声导鱼雷T2",
+      "gameId": "45420",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用G7e声导鱼雷T3",
+      "wikiName": "潜艇用G7e声导鱼雷T3",
+      "gameId": "45440",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "潜艇用G7e声导鱼雷改T0",
+      "wikiName": "潜艇用G7e声导鱼雷改T0",
+      "gameId": "45460",
+      "type": 13,
+      "nationality": 4,
+      "rarity": 6
+    },
+    {
+      "name": "四联装20mm MG机枪T1",
+      "wikiName": "四联装20mm MG机枪T1",
+      "gameId": "46000",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 1
+    },
+    {
+      "name": "四联装20mm MG机枪T2",
+      "wikiName": "四联装20mm MG机枪T2",
+      "gameId": "46020",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "四联装20mm MG机枪T3",
+      "wikiName": "四联装20mm MG机枪T3",
+      "gameId": "46040",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联装88mmSKC32高炮T0",
+      "wikiName": "双联装88mmSKC32高炮T0",
+      "gameId": "46060",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "37mm机枪T1",
+      "wikiName": "37mm机枪T1",
+      "gameId": "46100",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 1
+    },
+    {
+      "name": "37mm机枪T2",
+      "wikiName": "37mm机枪T2",
+      "gameId": "46120",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "37mm机枪T3",
+      "wikiName": "37mm机枪T3",
+      "gameId": "46140",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联37mm手拉机枪T1",
+      "wikiName": "双联37mm手拉机枪T1",
+      "gameId": "46200",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "双联37mm手拉机枪T2",
+      "wikiName": "双联37mm手拉机枪T2",
+      "gameId": "46220",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联37mm手拉机枪T3",
+      "wikiName": "双联37mm手拉机枪T3",
+      "gameId": "46240",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联37mm Flak M43机枪T0",
+      "wikiName": "双联37mm Flak M43机枪T0",
+      "gameId": "46260",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联105mmSKC高炮T1",
+      "wikiName": "双联105mmSKC高炮T1",
+      "gameId": "46300",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "双联105mmSKC高炮T2",
+      "wikiName": "双联105mmSKC高炮T2",
+      "gameId": "46320",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "双联105mmSKC高炮T3",
+      "wikiName": "双联105mmSKC高炮T3",
+      "gameId": "46340",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "双联105mmSKC高炮改进型T0",
+      "wikiName": "双联105mmSKC高炮改进型T0",
+      "gameId": "46360",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "双联105mmSKC高炮改进型(定时引信)T0",
+      "wikiName": "双联105mmSKC高炮改进型(定时引信)T0",
+      "gameId": "46380",
+      "type": 21,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型四联装30mm机炮T0",
+      "wikiName": "试作型四联装30mm机炮T0",
+      "gameId": "46400",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作型55mm Gerät 58防空炮T0",
+      "wikiName": "试作型55mm Gerät 58防空炮T0",
+      "gameId": "46420",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "单装40mm Flak28机炮T0",
+      "wikiName": "单装40mm Flak28机炮T0",
+      "gameId": "46440",
+      "type": 6,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "BF-109T舰载战斗机T1",
+      "wikiName": "BF-109T舰载战斗机T1",
+      "gameId": "47000",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "BF-109T舰载战斗机T2",
+      "wikiName": "BF-109T舰载战斗机T2",
+      "gameId": "47020",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "BF-109T舰载战斗机T3",
+      "wikiName": "BF-109T舰载战斗机T3",
+      "gameId": "47040",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "Ar-197舰载战斗机T0",
+      "wikiName": "Ar-197舰载战斗机T0",
+      "gameId": "47060",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "试作舰载型FW-190 A-5T0",
+      "wikiName": "试作舰载型FW-190 A-5T0",
+      "gameId": "47080",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "Me-155A舰载战斗机T1",
+      "wikiName": "Me-155A舰载战斗机T1",
+      "gameId": "47100",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "Me-155A舰载战斗机T2",
+      "wikiName": "Me-155A舰载战斗机T2",
+      "gameId": "47120",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "Me-155A舰载战斗机T3",
+      "wikiName": "Me-155A舰载战斗机T3",
+      "gameId": "47140",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型BF-109GT0",
+      "wikiName": "试作舰载型BF-109GT0",
+      "gameId": "47160",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型FW-190 A-6/R6T0",
+      "wikiName": "试作舰载型FW-190 A-6/R6T0",
+      "gameId": "47180",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型FW-190 G-3/R1T0",
+      "wikiName": "试作舰载型FW-190 G-3/R1T0",
+      "gameId": "47200",
+      "type": 7,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "Ar-195舰载鱼雷机T0",
+      "wikiName": "Ar-195舰载鱼雷机T0",
+      "gameId": "48000",
+      "type": 8,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "Fi-167舰载鱼雷机T0",
+      "wikiName": "Fi-167舰载鱼雷机T0",
+      "gameId": "48020",
+      "type": 8,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "Ju-87 D-4T0",
+      "wikiName": "Ju-87 D-4T0",
+      "gameId": "48040",
+      "type": 8,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "FW-190 F-8/U2T0",
+      "wikiName": "FW-190 F-8/U2T0",
+      "gameId": "48060",
+      "type": 8,
+      "nationality": 4,
+      "rarity": 5
+    },
+    {
+      "name": "Ju-87C俯冲轰炸机T1",
+      "wikiName": "Ju-87C俯冲轰炸机T1",
+      "gameId": "49000",
+      "type": 9,
+      "nationality": 4,
+      "rarity": 2
+    },
+    {
+      "name": "Ju-87C俯冲轰炸机T2",
+      "wikiName": "Ju-87C俯冲轰炸机T2",
+      "gameId": "49020",
+      "type": 9,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "Ju-87C俯冲轰炸机T3",
+      "wikiName": "Ju-87C俯冲轰炸机T3",
+      "gameId": "49040",
+      "type": 9,
+      "nationality": 4,
+      "rarity": 4
+    },
+    {
+      "name": "He-50b舰载轰炸机T0",
+      "wikiName": "He-50b舰载轰炸机T0",
+      "gameId": "49060",
+      "type": 9,
+      "nationality": 4,
+      "rarity": 3
+    },
+    {
+      "name": "试作舰载型Ta 152C-1/R14T0",
+      "wikiName": "试作舰载型Ta 152C-1/R14T0",
+      "gameId": "49080",
+      "type": 9,
+      "nationality": 4,
+      "rarity": 6
+    },
+    {
+      "name": "B-13 双联装130mm主炮B-2LMT1",
+      "wikiName": "B-13 双联装130mm主炮B-2LMT1",
+      "gameId": "85000",
+      "type": 1,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-13 双联装130mm主炮B-2LMT3",
+      "wikiName": "B-13 双联装130mm主炮B-2LMT3",
+      "gameId": "85040",
+      "type": 1,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "100mm双联装防空炮SM-5-1sT1",
+      "wikiName": "100mm双联装防空炮SM-5-1sT1",
+      "gameId": "85060",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-38 三联装152mm主炮MK-5T1",
+      "wikiName": "B-38 三联装152mm主炮MK-5T1",
+      "gameId": "85120",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-38 三联装152mm主炮MK-5T2",
+      "wikiName": "B-38 三联装152mm主炮MK-5T2",
+      "gameId": "85140",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "B-38 三联装152mm主炮MK-5T3",
+      "wikiName": "B-38 三联装152mm主炮MK-5T3",
+      "gameId": "85160",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "37mm防空炮70-KT1",
+      "wikiName": "37mm防空炮70-KT1",
+      "gameId": "85180",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 2
+    },
+    {
+      "name": "37mm防空炮70-KT2",
+      "wikiName": "37mm防空炮70-KT2",
+      "gameId": "85200",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "37mm防空炮70-KT3",
+      "wikiName": "37mm防空炮70-KT3",
+      "gameId": "85220",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "B-54 100mm双联装防空炮T2",
+      "wikiName": "B-54 100mm双联装防空炮T2",
+      "gameId": "85260",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-54 100mm双联装防空炮T3",
+      "wikiName": "B-54 100mm双联装防空炮T3",
+      "gameId": "85280",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "B-37 三联装406mm主炮MK-1T1",
+      "wikiName": "B-37 三联装406mm主炮MK-1T1",
+      "gameId": "85300",
+      "type": 4,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-37 三联装406mm主炮MK-1T2",
+      "wikiName": "B-37 三联装406mm主炮MK-1T2",
+      "gameId": "85320",
+      "type": 4,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "B-37 三联装406mm主炮MK-1T3",
+      "wikiName": "B-37 三联装406mm主炮MK-1T3",
+      "gameId": "85340",
+      "type": 4,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "B-34 100mm双联装防空炮MZ-14T1",
+      "wikiName": "B-34 100mm双联装防空炮MZ-14T1",
+      "gameId": "85360",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 2
+    },
+    {
+      "name": "B-34 100mm双联装防空炮MZ-14T2",
+      "wikiName": "B-34 100mm双联装防空炮MZ-14T2",
+      "gameId": "85380",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-34 100mm双联装防空炮MZ-14T3",
+      "wikiName": "B-34 100mm双联装防空炮MZ-14T3",
+      "gameId": "85400",
+      "type": 6,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "三联装305mm主炮Model1907T3",
+      "wikiName": "三联装305mm主炮Model1907T3",
+      "gameId": "85420",
+      "type": 4,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "双联装152mm主炮Model1892T3",
+      "wikiName": "双联装152mm主炮Model1892T3",
+      "gameId": "85440",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-1-P 三联装180mm主炮Model1932T1",
+      "wikiName": "B-1-P 三联装180mm主炮Model1932T1",
+      "gameId": "85460",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "B-1-P 三联装180mm主炮Model1932T2",
+      "wikiName": "B-1-P 三联装180mm主炮Model1932T2",
+      "gameId": "85480",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "B-1-P 三联装180mm主炮Model1932T3",
+      "wikiName": "B-1-P 三联装180mm主炮Model1932T3",
+      "gameId": "85500",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "B-50 三联装305mm主炮MK-15T0",
+      "wikiName": "B-50 三联装305mm主炮MK-15T0",
+      "gameId": "85520",
+      "type": 11,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型Su-2T0",
+      "wikiName": "试作舰载型Su-2T0",
+      "gameId": "85540",
+      "type": 9,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "试作型VIT-2(VK-107)T0",
+      "wikiName": "试作型VIT-2(VK-107)T0",
+      "gameId": "85560",
+      "type": 8,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装240mm主炮T0",
+      "wikiName": "试作型三联装240mm主炮T0",
+      "gameId": "85580",
+      "type": 3,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型La-9T0",
+      "wikiName": "试作舰载型La-9T0",
+      "gameId": "85600",
+      "type": 7,
+      "nationality": 7,
+      "rarity": 6
+    },
+    {
+      "name": "试作型VIT-2（模式调整）T0",
+      "wikiName": "试作型VIT-2（模式调整）T0",
+      "gameId": "85620",
+      "type": 8,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "试作型B-1-P 三联装180mm主炮Model1932改T0",
+      "wikiName": "试作型B-1-P 三联装180mm主炮Model1932改T0",
+      "gameId": "85640",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "试作舰载型Su-6T0",
+      "wikiName": "试作舰载型Su-6T0",
+      "gameId": "85660",
+      "type": 9,
+      "nationality": 7,
+      "rarity": 5
+    },
+    {
+      "name": "B-1-K 单装180mm主炮T0",
+      "wikiName": "B-1-K 单装180mm主炮T0",
+      "gameId": "85680",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "B-38 双联装152mm主炮MK17T0",
+      "wikiName": "B-38 双联装152mm主炮MK17T0",
+      "gameId": "85700",
+      "type": 2,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "130mm单装炮Model1913T0",
+      "wikiName": "130mm单装炮Model1913T0",
+      "gameId": "85720",
+      "type": 1,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "三联装356mm主炮Model1913T0",
+      "wikiName": "三联装356mm主炮Model1913T0",
+      "gameId": "85740",
+      "type": 4,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "R-5轰炸机T0",
+      "wikiName": "R-5轰炸机T0",
+      "gameId": "85760",
+      "type": 9,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "LBShT0",
+      "wikiName": "LBShT0",
+      "gameId": "85780",
+      "type": 9,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "SM-40 试作型三联装220mm主炮T0",
+      "wikiName": "SM-40 试作型三联装220mm主炮T0",
+      "gameId": "85800",
+      "type": 3,
+      "nationality": 7,
+      "rarity": 6
+    },
+    {
+      "name": "I-15T0",
+      "wikiName": "I-15T0",
+      "gameId": "85820",
+      "type": 7,
+      "nationality": 7,
+      "rarity": 3
+    },
+    {
+      "name": "试作舰载型Yak-1T0",
+      "wikiName": "试作舰载型Yak-1T0",
+      "gameId": "85840",
+      "type": 7,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "试作舰载型Yak-3T0",
+      "wikiName": "试作舰载型Yak-3T0",
+      "gameId": "85860",
+      "type": 7,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "试作舰载型Yak-7T0",
+      "wikiName": "试作舰载型Yak-7T0",
+      "gameId": "85880",
+      "type": 7,
+      "nationality": 7,
+      "rarity": 4
+    },
+    {
+      "name": "随机单词生成器T0",
+      "wikiName": "随机单词生成器T0",
+      "gameId": "89000",
+      "type": 10,
+      "nationality": 104,
+      "rarity": 5
+    },
+    {
+      "name": "晃悠悠T0",
+      "wikiName": "晃悠悠T0",
+      "gameId": "89020",
+      "type": 10,
+      "nationality": 104,
+      "rarity": 5
+    },
+    {
+      "name": "智慧模块T0",
+      "wikiName": "智慧模块T0",
+      "gameId": "89040",
+      "type": 10,
+      "nationality": 104,
+      "rarity": 5
+    },
+    {
+      "name": "组徽T0",
+      "wikiName": "组徽T0",
+      "gameId": "89060",
+      "type": 10,
+      "nationality": 105,
+      "rarity": 5
+    },
+    {
+      "name": "Gamers的证明T0",
+      "wikiName": "Gamers的证明T0",
+      "gameId": "89080",
+      "type": 10,
+      "nationality": 105,
+      "rarity": 5
+    },
+    {
+      "name": "玉米灯笼T0",
+      "wikiName": "玉米灯笼T0",
+      "gameId": "89100",
+      "type": 10,
+      "nationality": 105,
+      "rarity": 5
+    },
+    {
+      "name": "鮟鱇肝T0",
+      "wikiName": "鮟鱇肝T0",
+      "gameId": "89120",
+      "type": 10,
+      "nationality": 105,
+      "rarity": 5
+    },
+    {
+      "name": "炽烈之歌T0",
+      "wikiName": "炽烈之歌T0",
+      "gameId": "89140",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "活力之歌T0",
+      "wikiName": "活力之歌T0",
+      "gameId": "89160",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "闪耀之歌T0",
+      "wikiName": "闪耀之歌T0",
+      "gameId": "89180",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "引力舞鞋T0",
+      "wikiName": "引力舞鞋T0",
+      "gameId": "89200",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "星云舞裙T0",
+      "wikiName": "星云舞裙T0",
+      "gameId": "89220",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "觉醒宝珠T0",
+      "wikiName": "觉醒宝珠T0",
+      "gameId": "89240",
+      "type": 10,
+      "nationality": 106,
+      "rarity": 5
+    },
+    {
+      "name": "心之钥匙T0",
+      "wikiName": "心之钥匙T0",
+      "gameId": "89260",
+      "type": 10,
+      "nationality": 106,
+      "rarity": 5
+    },
+    {
+      "name": "偶像手环T0",
+      "wikiName": "偶像手环T0",
+      "gameId": "89280",
+      "type": 10,
+      "nationality": 107,
+      "rarity": 5
+    },
+    {
+      "name": "征战巨坦T0",
+      "wikiName": "征战巨坦T0",
+      "gameId": "89300",
+      "type": 10,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "古立特圣剑T0",
+      "wikiName": "古立特圣剑T0",
+      "gameId": "89320",
+      "type": 10,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "爆裂钻孔机T0",
+      "wikiName": "爆裂钻孔机T0",
+      "gameId": "89340",
+      "type": 10,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "苍穹喷射机T0",
+      "wikiName": "苍穹喷射机T0",
+      "gameId": "89360",
+      "type": 10,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "戴拿爆能加农T0",
+      "wikiName": "戴拿爆能加农T0",
+      "gameId": "89380",
+      "type": 10,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "煌翼炎龙T0",
+      "wikiName": "煌翼炎龙T0",
+      "gameId": "89400",
+      "type": 10,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "炙烈炎烧T0",
+      "wikiName": "炙烈炎烧T0",
+      "gameId": "89420",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "结晶冰精T0",
+      "wikiName": "结晶冰精T0",
+      "gameId": "89440",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "震耳雷球T0",
+      "wikiName": "震耳雷球T0",
+      "gameId": "89460",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "涡旋风精T0",
+      "wikiName": "涡旋风精T0",
+      "gameId": "89480",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "万灵药剂T0",
+      "wikiName": "万灵药剂T0",
+      "gameId": "89500",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "神秘的羽衣T0",
+      "wikiName": "神秘的羽衣T0",
+      "gameId": "89520",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "默示录T0",
+      "wikiName": "默示录T0",
+      "gameId": "89540",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "Ｎ／ＡT0",
+      "wikiName": "Ｎ／ＡT0",
+      "gameId": "89560",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "创世之槌T0",
+      "wikiName": "创世之槌T0",
+      "gameId": "89580",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "泡云弹车T0",
+      "wikiName": "泡云弹车T0",
+      "gameId": "89600",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "形意口琴T0",
+      "wikiName": "形意口琴T0",
+      "gameId": "89620",
+      "type": 10,
+      "nationality": 109,
+      "rarity": 5
+    },
+    {
+      "name": "帝王蟹（附带小票）T0",
+      "wikiName": "帝王蟹（附带小票）T0",
+      "gameId": "89640",
+      "type": 18,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "木龙雕塑T0",
+      "wikiName": "木龙雕塑T0",
+      "gameId": "89660",
+      "type": 18,
+      "nationality": 108,
+      "rarity": 5
+    },
+    {
+      "name": "忍者大师徽章T0",
+      "wikiName": "忍者大师徽章T0",
+      "gameId": "89680",
+      "type": 10,
+      "nationality": 110,
+      "rarity": 5
+    },
+    {
+      "name": "忍者装束T0",
+      "wikiName": "忍者装束T0",
+      "gameId": "89700",
+      "type": 10,
+      "nationality": 110,
+      "rarity": 5
+    },
+    {
+      "name": "忍术卷轴T0",
+      "wikiName": "忍术卷轴T0",
+      "gameId": "89720",
+      "type": 10,
+      "nationality": 110,
+      "rarity": 5
+    },
+    {
+      "name": "μ兵装三期LIVE纪念票T0",
+      "wikiName": "μ兵装三期LIVE纪念票T0",
+      "gameId": "89740",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "「Alizarin」应援毛巾T0",
+      "wikiName": "「Alizarin」应援毛巾T0",
+      "gameId": "89760",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "「Cyanidin」应援毛巾T0",
+      "wikiName": "「Cyanidin」应援毛巾T0",
+      "gameId": "89780",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "130mm单装炮Mle1924T1",
+      "wikiName": "130mm单装炮Mle1924T1",
+      "gameId": "90000",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 1
+    },
+    {
+      "name": "130mm单装炮Mle1924T2",
+      "wikiName": "130mm单装炮Mle1924T2",
+      "gameId": "90020",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "130mm单装炮Mle1924T3",
+      "wikiName": "130mm单装炮Mle1924T3",
+      "gameId": "90040",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "138.6mm单装炮Mle1929T1",
+      "wikiName": "138.6mm单装炮Mle1929T1",
+      "gameId": "90100",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "138.6mm单装炮Mle1929T2",
+      "wikiName": "138.6mm单装炮Mle1929T2",
+      "gameId": "90120",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "138.6mm单装炮Mle1929T3",
+      "wikiName": "138.6mm单装炮Mle1929T3",
+      "gameId": "90140",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "双联装138.6mm主炮Mle1934T0",
+      "wikiName": "双联装138.6mm主炮Mle1934T0",
+      "gameId": "90160",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 6
+    },
+    {
+      "name": "三联装152mm主炮Mle1930T1",
+      "wikiName": "三联装152mm主炮Mle1930T1",
+      "gameId": "90200",
+      "type": 2,
+      "nationality": 8,
+      "rarity": 1
+    },
+    {
+      "name": "三联装152mm主炮Mle1930T2",
+      "wikiName": "三联装152mm主炮Mle1930T2",
+      "gameId": "90220",
+      "type": 2,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "三联装152mm主炮Mle1930T3",
+      "wikiName": "三联装152mm主炮Mle1930T3",
+      "gameId": "90240",
+      "type": 2,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "三联装152mm主炮Mle1930(高爆弹)T0",
+      "wikiName": "三联装152mm主炮Mle1930(高爆弹)T0",
+      "gameId": "90260",
+      "type": 2,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "四联装330mm主炮Mle1931T1",
+      "wikiName": "四联装330mm主炮Mle1931T1",
+      "gameId": "90300",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "四联装330mm主炮Mle1931T2",
+      "wikiName": "四联装330mm主炮Mle1931T2",
+      "gameId": "90320",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "四联装330mm主炮Mle1931T3",
+      "wikiName": "四联装330mm主炮Mle1931T3",
+      "gameId": "90340",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "试作型四联装330mm主炮Mle1931(超巡用)T0",
+      "wikiName": "试作型四联装330mm主炮Mle1931(超巡用)T0",
+      "gameId": "90360",
+      "type": 11,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "四联装380mm主炮Mle1935T1",
+      "wikiName": "四联装380mm主炮Mle1935T1",
+      "gameId": "90400",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "四联装380mm主炮Mle1935T2",
+      "wikiName": "四联装380mm主炮Mle1935T2",
+      "gameId": "90420",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "四联装380mm主炮Mle1935T3",
+      "wikiName": "四联装380mm主炮Mle1935T3",
+      "gameId": "90440",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "四联装340mm主炮Mle1912T3",
+      "wikiName": "四联装340mm主炮Mle1912T3",
+      "gameId": "90460",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "试作型三联装380mm主炮Mle1935T0",
+      "wikiName": "试作型三联装380mm主炮Mle1935T0",
+      "gameId": "90480",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "双联装130mm主炮Mle1935T1",
+      "wikiName": "双联装130mm主炮Mle1935T1",
+      "gameId": "90500",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "双联装130mm主炮Mle1935T3",
+      "wikiName": "双联装130mm主炮Mle1935T3",
+      "gameId": "90540",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "37mm高射炮Mle1925T3",
+      "wikiName": "37mm高射炮Mle1925T3",
+      "gameId": "90560",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "双联37mm高射炮Mle1933T3",
+      "wikiName": "双联37mm高射炮Mle1933T3",
+      "gameId": "90580",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "双联37mm高射炮Mle1936T0",
+      "wikiName": "双联37mm高射炮Mle1936T0",
+      "gameId": "90600",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "双联装57mmL/60博福斯对空机炮Mle1951T0",
+      "wikiName": "双联装57mmL/60博福斯对空机炮Mle1951T0",
+      "gameId": "90620",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 6
+    },
+    {
+      "name": "双联装100mm高炮Mle1937T3",
+      "wikiName": "双联装100mm高炮Mle1937T3",
+      "gameId": "90640",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "双联装100mm高炮Mle1945T0",
+      "wikiName": "双联装100mm高炮Mle1945T0",
+      "gameId": "90660",
+      "type": 6,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "138.6mm单装炮Mle1927T1",
+      "wikiName": "138.6mm单装炮Mle1927T1",
+      "gameId": "90700",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "138.6mm单装炮Mle1927T2",
+      "wikiName": "138.6mm单装炮Mle1927T2",
+      "gameId": "90720",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "138.6mm单装炮Mle1927T3",
+      "wikiName": "138.6mm单装炮Mle1927T3",
+      "gameId": "90740",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "138.6mm单装炮Mle1923T3",
+      "wikiName": "138.6mm单装炮Mle1923T3",
+      "gameId": "90760",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "双联装155mm主炮Mle1920T0",
+      "wikiName": "双联装155mm主炮Mle1920T0",
+      "gameId": "90780",
+      "type": 2,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "单装155mm副炮Mle1920T0",
+      "wikiName": "单装155mm副炮Mle1920T0",
+      "gameId": "90800",
+      "type": 2,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "GL.2舰载战斗机T0",
+      "wikiName": "GL.2舰载战斗机T0",
+      "gameId": "90820",
+      "type": 7,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "PL.7舰载鱼雷机T0",
+      "wikiName": "PL.7舰载鱼雷机T0",
+      "gameId": "90840",
+      "type": 8,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "双联装203mm主炮Mle1931T1",
+      "wikiName": "双联装203mm主炮Mle1931T1",
+      "gameId": "90860",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "双联装203mm主炮Mle1931T2",
+      "wikiName": "双联装203mm主炮Mle1931T2",
+      "gameId": "90880",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "双联装203mm主炮Mle1931T3",
+      "wikiName": "双联装203mm主炮Mle1931T3",
+      "gameId": "90900",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装406mm/50主炮T0",
+      "wikiName": "试作型三联装406mm/50主炮T0",
+      "gameId": "91000",
+      "type": 4,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "双联装203mm主炮Mle1924T1",
+      "wikiName": "双联装203mm主炮Mle1924T1",
+      "gameId": "91100",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 2
+    },
+    {
+      "name": "双联装203mm主炮Mle1924T3",
+      "wikiName": "双联装203mm主炮Mle1924T3",
+      "gameId": "91140",
+      "type": 3,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "FBA 19T2",
+      "wikiName": "FBA 19T2",
+      "gameId": "91180",
+      "type": 12,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "FBA 19T3",
+      "wikiName": "FBA 19T3",
+      "gameId": "91200",
+      "type": 12,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "D.790T0",
+      "wikiName": "D.790T0",
+      "gameId": "91220",
+      "type": 7,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "BR.810T0",
+      "wikiName": "BR.810T0",
+      "gameId": "91240",
+      "type": 8,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "天使之羽T0",
+      "wikiName": "天使之羽T0",
+      "gameId": "91260",
+      "type": 10,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "十字胸针T0",
+      "wikiName": "十字胸针T0",
+      "gameId": "91280",
+      "type": 10,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "PL.10T0",
+      "wikiName": "PL.10T0",
+      "gameId": "91300",
+      "type": 8,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "V-156-FT0",
+      "wikiName": "V-156-FT0",
+      "gameId": "91320",
+      "type": 9,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "LN.401T0",
+      "wikiName": "LN.401T0",
+      "gameId": "91340",
+      "type": 9,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "Late.299T0",
+      "wikiName": "Late.299T0",
+      "gameId": "91360",
+      "type": 8,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "LGL.32T0",
+      "wikiName": "LGL.32T0",
+      "gameId": "91380",
+      "type": 7,
+      "nationality": 8,
+      "rarity": 3
+    },
+    {
+      "name": "试作型双联装127mm主炮Mle1948T0",
+      "wikiName": "试作型双联装127mm主炮Mle1948T0",
+      "gameId": "91400",
+      "type": 1,
+      "nationality": 8,
+      "rarity": 5
+    },
+    {
+      "name": "三联装381mm主炮Model1934T1",
+      "wikiName": "三联装381mm主炮Model1934T1",
+      "gameId": "95000",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "三联装381mm主炮Model1934T2",
+      "wikiName": "三联装381mm主炮Model1934T2",
+      "gameId": "95020",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "三联装381mm主炮Model1934T3",
+      "wikiName": "三联装381mm主炮Model1934T3",
+      "gameId": "95040",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "90mm单装高角炮Model1939T1",
+      "wikiName": "90mm单装高角炮Model1939T1",
+      "gameId": "95100",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "90mm单装高角炮Model1939T2",
+      "wikiName": "90mm单装高角炮Model1939T2",
+      "gameId": "95120",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "90mm单装高角炮Model1939T3",
+      "wikiName": "90mm单装高角炮Model1939T3",
+      "gameId": "95140",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "试作型双联90mm高角炮Model1939T0",
+      "wikiName": "试作型双联90mm高角炮Model1939T0",
+      "gameId": "95160",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "双联203mm主炮Model1927T1",
+      "wikiName": "双联203mm主炮Model1927T1",
+      "gameId": "95200",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联203mm主炮Model1927T2",
+      "wikiName": "双联203mm主炮Model1927T2",
+      "gameId": "95220",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "双联203mm主炮Model1927T3",
+      "wikiName": "双联203mm主炮Model1927T3",
+      "gameId": "95240",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "双联203mm主炮Model1924T1",
+      "wikiName": "双联203mm主炮Model1924T1",
+      "gameId": "95300",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 2
+    },
+    {
+      "name": "双联203mm主炮Model1924T2",
+      "wikiName": "双联203mm主炮Model1924T2",
+      "gameId": "95320",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联203mm主炮Model1924T3",
+      "wikiName": "双联203mm主炮Model1924T3",
+      "gameId": "95340",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "双联装120mm炮Model1936T1",
+      "wikiName": "双联装120mm炮Model1936T1",
+      "gameId": "95400",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 2
+    },
+    {
+      "name": "双联装120mm炮Model1936T2",
+      "wikiName": "双联装120mm炮Model1936T2",
+      "gameId": "95420",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联装120mm炮Model1936T3",
+      "wikiName": "双联装120mm炮Model1936T3",
+      "gameId": "95440",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "双联装120mm炮Model1933T0",
+      "wikiName": "双联装120mm炮Model1933T0",
+      "gameId": "95460",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "三联装320mm主炮Model1934T0",
+      "wikiName": "三联装320mm主炮Model1934T0",
+      "gameId": "95480",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联37mm机枪Model1932T1",
+      "wikiName": "双联37mm机枪Model1932T1",
+      "gameId": "95500",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 2
+    },
+    {
+      "name": "双联37mm机枪Model1932T2",
+      "wikiName": "双联37mm机枪Model1932T2",
+      "gameId": "95520",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联37mm机枪Model1932T3",
+      "wikiName": "双联37mm机枪Model1932T3",
+      "gameId": "95540",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "三联装152mm主炮Model1934T1",
+      "wikiName": "三联装152mm主炮Model1934T1",
+      "gameId": "95600",
+      "type": 2,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "三联装152mm主炮Model1934T3",
+      "wikiName": "三联装152mm主炮Model1934T3",
+      "gameId": "95640",
+      "type": 2,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装152mm主炮Model1936T0",
+      "wikiName": "试作型三联装152mm主炮Model1936T0",
+      "gameId": "95660",
+      "type": 2,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "双联装120mm主炮(撒丁)T1",
+      "wikiName": "双联装120mm主炮(撒丁)T1",
+      "gameId": "95560",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 2
+    },
+    {
+      "name": "双联装120mm主炮(撒丁)T3",
+      "wikiName": "双联装120mm主炮(撒丁)T3",
+      "gameId": "95580",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "潜艇用533mm鱼雷Si 270T1",
+      "wikiName": "潜艇用533mm鱼雷Si 270T1",
+      "gameId": "95700",
+      "type": 13,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "G.50箭式战斗机T1",
+      "wikiName": "G.50箭式战斗机T1",
+      "gameId": "95720",
+      "type": 7,
+      "nationality": 6,
+      "rarity": 2
+    },
+    {
+      "name": "G.50箭式战斗机T2",
+      "wikiName": "G.50箭式战斗机T2",
+      "gameId": "95740",
+      "type": 7,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "G.50箭式战斗机T3",
+      "wikiName": "G.50箭式战斗机T3",
+      "gameId": "95760",
+      "type": 7,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "Re.2001公羊T1",
+      "wikiName": "Re.2001公羊T1",
+      "gameId": "95800",
+      "type": 7,
+      "nationality": 6,
+      "rarity": 2
+    },
+    {
+      "name": "Re.2001公羊T2",
+      "wikiName": "Re.2001公羊T2",
+      "gameId": "95820",
+      "type": 7,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "Re.2001公羊T3",
+      "wikiName": "Re.2001公羊T3",
+      "gameId": "95840",
+      "type": 7,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装406mm主炮Model1940T0",
+      "wikiName": "试作型三联装406mm主炮Model1940T0",
+      "gameId": "95900",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "双联装135mm主炮Model1938T1",
+      "wikiName": "双联装135mm主炮Model1938T1",
+      "gameId": "95920",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联装135mm主炮Model1938T2",
+      "wikiName": "双联装135mm主炮Model1938T2",
+      "gameId": "95940",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "双联装135mm主炮Model1938T3",
+      "wikiName": "双联装135mm主炮Model1938T3",
+      "gameId": "95960",
+      "type": 1,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "上游-1T0",
+      "wikiName": "上游-1T0",
+      "gameId": "96000",
+      "type": 20,
+      "nationality": 5,
+      "rarity": 5
+    },
+    {
+      "name": "上游-1甲T0",
+      "wikiName": "上游-1甲T0",
+      "gameId": "96020",
+      "type": 20,
+      "nationality": 5,
+      "rarity": 5
+    },
+    {
+      "name": "试作型双联装130mm主炮Model1936T0",
+      "wikiName": "试作型双联装130mm主炮Model1936T0",
+      "gameId": "96100",
+      "type": 1,
+      "nationality": 5,
+      "rarity": 5
+    },
+    {
+      "name": "试作型三联装254mm主炮Model1939T0",
+      "wikiName": "试作型三联装254mm主炮Model1939T0",
+      "gameId": "96120",
+      "type": 3,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "三联装305mm主炮Model1909T3",
+      "wikiName": "三联装305mm主炮Model1909T3",
+      "gameId": "96140",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联装381mm主炮Model1914T3",
+      "wikiName": "双联装381mm主炮Model1914T3",
+      "gameId": "96160",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "双联装Breda13.2mm高炮T3",
+      "wikiName": "双联装Breda13.2mm高炮T3",
+      "gameId": "96180",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 3
+    },
+    {
+      "name": "单装65mmModel1939高炮T3",
+      "wikiName": "单装65mmModel1939高炮T3",
+      "gameId": "96200",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "双联装Breda20mm高炮T3",
+      "wikiName": "双联装Breda20mm高炮T3",
+      "gameId": "96220",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "试作型三联装406mm主炮Model1940改T0",
+      "wikiName": "试作型三联装406mm主炮Model1940改T0",
+      "gameId": "96240",
+      "type": 4,
+      "nationality": 6,
+      "rarity": 6
+    },
+    {
+      "name": "试作型六联装Scotti20mm机炮Model1941T0",
+      "wikiName": "试作型六联装Scotti20mm机炮Model1941T0",
+      "gameId": "96260",
+      "type": 6,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "试作型四联装533毫米鱼雷Si 270T0",
+      "wikiName": "试作型四联装533毫米鱼雷Si 270T0",
+      "gameId": "96280",
+      "type": 5,
+      "nationality": 6,
+      "rarity": 5
+    },
+    {
+      "name": "刺绣锦囊T0",
+      "wikiName": "刺绣锦囊T0",
+      "gameId": "150000",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "飓风旗T0",
+      "wikiName": "飓风旗T0",
+      "gameId": "150020",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "旧式重火炮T1",
+      "wikiName": "旧式重火炮T1",
+      "gameId": "150040",
+      "type": 1,
+      "nationality": 96,
+      "rarity": 3
+    },
+    {
+      "name": "旧式重火炮T3",
+      "wikiName": "旧式重火炮T3",
+      "gameId": "150080",
+      "type": 1,
+      "nationality": 96,
+      "rarity": 5
+    },
+    {
+      "name": "旧式半加农炮T1",
+      "wikiName": "旧式半加农炮T1",
+      "gameId": "150100",
+      "type": 4,
+      "nationality": 96,
+      "rarity": 3
+    },
+    {
+      "name": "旧式半加农炮T3",
+      "wikiName": "旧式半加农炮T3",
+      "gameId": "150140",
+      "type": 4,
+      "nationality": 96,
+      "rarity": 5
+    },
+    {
+      "name": "果蔬补给品T0",
+      "wikiName": "果蔬补给品T0",
+      "gameId": "150160",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "航海望远镜T0",
+      "wikiName": "航海望远镜T0",
+      "gameId": "150180",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "星海B2O区通行证T0",
+      "wikiName": "星海B2O区通行证T0",
+      "gameId": "150200",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "寰昌的钓鱼竿T0",
+      "wikiName": "寰昌的钓鱼竿T0",
+      "gameId": "150240",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "通天之匣T0",
+      "wikiName": "通天之匣T0",
+      "gameId": "150260",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "异世界冒险终端T0",
+      "wikiName": "异世界冒险终端T0",
+      "gameId": "150280",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "被定格的彼岸花T0",
+      "wikiName": "被定格的彼岸花T0",
+      "gameId": "150300",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "奇怪装置「D」T0",
+      "wikiName": "奇怪装置「D」T0",
+      "gameId": "150320",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "联合演习纪念币（限定版）T0",
+      "wikiName": "联合演习纪念币（限定版）T0",
+      "gameId": "150340",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "速运高速无人机T0",
+      "wikiName": "速运高速无人机T0",
+      "gameId": "150360",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "珍贵货物箱T0",
+      "wikiName": "珍贵货物箱T0",
+      "gameId": "150380",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 5
+    },
+    {
+      "name": "葡萄弹T0",
+      "wikiName": "葡萄弹T0",
+      "gameId": "150400",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "酒饮补给品T0",
+      "wikiName": "酒饮补给品T0",
+      "gameId": "150420",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "咻咻料理君T0",
+      "wikiName": "咻咻料理君T0",
+      "gameId": "150440",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "嗡嗡倾听君T0",
+      "wikiName": "嗡嗡倾听君T0",
+      "gameId": "150460",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "嘘嘘隐身君T0",
+      "wikiName": "嘘嘘隐身君T0",
+      "gameId": "150480",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "嘻嘻加班君T0",
+      "wikiName": "嘻嘻加班君T0",
+      "gameId": "150500",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "嘭嘭速生君T0",
+      "wikiName": "嘭嘭速生君T0",
+      "gameId": "150520",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "噗噗氛围君T0",
+      "wikiName": "噗噗氛围君T0",
+      "gameId": "150540",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "辉辉光环君T0",
+      "wikiName": "辉辉光环君T0",
+      "gameId": "150560",
+      "type": 10,
+      "nationality": 111,
+      "rarity": 5
+    },
+    {
+      "name": "孟菲斯之蓝T0",
+      "wikiName": "孟菲斯之蓝T0",
+      "gameId": "150580",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "伏波的计划书T0",
+      "wikiName": "伏波的计划书T0",
+      "gameId": "150600",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "黑日之冕T0",
+      "wikiName": "黑日之冕T0",
+      "gameId": "150620",
+      "type": 10,
+      "nationality": 6,
+      "rarity": 4
+    },
+    {
+      "name": "郁金香花束T0",
+      "wikiName": "郁金香花束T0",
+      "gameId": "150640",
+      "type": 10,
+      "nationality": 11,
+      "rarity": 4
+    },
+    {
+      "name": "我的宝贝鲸鱼T0",
+      "wikiName": "我的宝贝鲸鱼T0",
+      "gameId": "150660",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "宏伟光辉T0",
+      "wikiName": "宏伟光辉T0",
+      "gameId": "150680",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "高级魔导书T0",
+      "wikiName": "高级魔导书T0",
+      "gameId": "150700",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "最终陨石T0",
+      "wikiName": "最终陨石T0",
+      "gameId": "150720",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "神药球T0",
+      "wikiName": "神药球T0",
+      "gameId": "150740",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "地狱立方体T0",
+      "wikiName": "地狱立方体T0",
+      "gameId": "150760",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "天恩浑仪T0",
+      "wikiName": "天恩浑仪T0",
+      "gameId": "150780",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "芙拉米T0",
+      "wikiName": "芙拉米T0",
+      "gameId": "150800",
+      "type": 10,
+      "nationality": 113,
+      "rarity": 5
+    },
+    {
+      "name": "重樱的邀请函T0",
+      "wikiName": "重樱的邀请函T0",
+      "gameId": "150820",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 4
+    },
+    {
+      "name": "自由群岛邀请函T0",
+      "wikiName": "自由群岛邀请函T0",
+      "gameId": "150840",
+      "type": 10,
+      "nationality": 96,
+      "rarity": 4
+    },
+    {
+      "name": "封解主（Michael）T0",
+      "wikiName": "封解主（Michael）T0",
+      "gameId": "150860",
+      "type": 10,
+      "nationality": 115,
+      "rarity": 5
+    },
+    {
+      "name": "灵结晶T0",
+      "wikiName": "灵结晶T0",
+      "gameId": "150880",
+      "type": 10,
+      "nationality": 115,
+      "rarity": 5
+    },
+    {
+      "name": "超大饭团T0",
+      "wikiName": "超大饭团T0",
+      "gameId": "150900",
+      "type": 10,
+      "nationality": 115,
+      "rarity": 5
+    },
+    {
+      "name": "海蓝色之谜T0",
+      "wikiName": "海蓝色之谜T0",
+      "gameId": "150920",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "导演的剧本书T0",
+      "wikiName": "导演的剧本书T0",
+      "gameId": "150940",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "拍卖会请柬T0",
+      "wikiName": "拍卖会请柬T0",
+      "gameId": "150960",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "香蝶戏竹T0",
+      "wikiName": "香蝶戏竹T0",
+      "gameId": "150980",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "香蝶弄梅T0",
+      "wikiName": "香蝶弄梅T0",
+      "gameId": "151000",
+      "type": 10,
+      "nationality": 5,
+      "rarity": 4
+    },
+    {
+      "name": "漫游者T0",
+      "wikiName": "漫游者T0",
+      "gameId": "151020",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "系统通缉者T0",
+      "wikiName": "系统通缉者T0",
+      "gameId": "151040",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    },
+    {
+      "name": "零号协议密钥T0",
+      "wikiName": "零号协议密钥T0",
+      "gameId": "151060",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 5
+    },
+    {
+      "name": "千雷装饰笔T0",
+      "wikiName": "千雷装饰笔T0",
+      "gameId": "151080",
+      "type": 10,
+      "nationality": 106,
+      "rarity": 5
+    },
+    {
+      "name": "写真看板T0",
+      "wikiName": "写真看板T0",
+      "gameId": "151100",
+      "type": 10,
+      "nationality": 106,
+      "rarity": 5
+    },
+    {
+      "name": "幸运四叶草T0",
+      "wikiName": "幸运四叶草T0",
+      "gameId": "151120",
+      "type": 10,
+      "nationality": 106,
+      "rarity": 5
+    },
+    {
+      "name": "「审判号」启动钥匙T0",
+      "wikiName": "「审判号」启动钥匙T0",
+      "gameId": "151140",
+      "type": 10,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "搞笑担当T0",
+      "wikiName": "搞笑担当T0",
+      "gameId": "151180",
+      "type": 10,
+      "nationality": 8,
+      "rarity": 4
+    },
+    {
+      "name": "名侦探之帽T0",
+      "wikiName": "名侦探之帽T0",
+      "gameId": "151200",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 4
+    },
+    {
+      "name": "Error十三世T0",
+      "wikiName": "Error十三世T0",
+      "gameId": "151220",
+      "type": 10,
+      "nationality": 1,
+      "rarity": 5
+    },
+    {
+      "name": "天风袋T0",
+      "wikiName": "天风袋T0",
+      "gameId": "151240",
+      "type": 10,
+      "nationality": 3,
+      "rarity": 5
+    },
+    {
+      "name": "员工通行卡T0",
+      "wikiName": "员工通行卡T0",
+      "gameId": "151260",
+      "type": 10,
+      "nationality": 0,
+      "rarity": 4
+    }
+  ]
+}

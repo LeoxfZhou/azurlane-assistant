@@ -1,0 +1,14 @@
+const assert = require('node:assert/strict');
+const {renderTrainingPlan} = require('../web/training_plan.js');
+const talents = [{id:'a1',name:'新手'}, {id:'a2',name:'熟练'}, {id:'a3',name:'专家'}, {id:'junk',name:'废天赋'}];
+const plan = {targetTalentIds:['a3'],retainedTalentIds:['a1'],acquireTalentIds:[],upgradeActions:[{pathTalentIds:['a1','a2','a3'],requiredPoints:2}],replacementTalentIds:['junk'],flexibleInitialTalentIds:[],requiredPoints:2,reachable:true,fixedGrowth:false};
+const html = renderTrainingPlan(plan,talents);
+assert(html.includes('新手 → 熟练 → 专家（共 2 点）'));
+assert(html.includes('天赋满5个后，用后续出现的目标新天赋覆盖：废天赋'));
+assert(html.includes('遇到时优先选择：</b>无'));
+assert(!html.includes('后续优先天赋'));
+assert(renderTrainingPlan({...plan,replacementTalentIds:[],flexibleInitialTalentIds:['junk']},talents).includes('无需替换现有天赋'));
+assert(renderTrainingPlan({...plan,reachable:false,unreachableReason:'超过六点'},talents).includes('不可达：超过六点'));
+assert(renderTrainingPlan({...plan,fixedGrowth:true,upgradeActions:[],replacementTalentIds:[]},talents).includes('随等级解锁'));
+assert(!renderTrainingPlan({...plan,unreachableReason:'<script>',reachable:false},talents).includes('<script>'));
+console.log('Training plan rendering tests passed.');

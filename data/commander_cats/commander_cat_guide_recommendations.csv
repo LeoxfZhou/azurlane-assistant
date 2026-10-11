@@ -1,0 +1,21 @@
+guide_id,cat_id,scenario,slot,initial_specials,initial_normals,required_talents,optional_talents,recommendation,notes,covered
+guide_oscar_os,oscar,大世界,staff,侵略如火 或 一发入魂,炮击新手·主力 或 新晋指挥官·战列,侵略如火 + 一发入魂 + 钢铁巨兽 + 炮术长·主力,既定的命运 或 见敌必战 或 小小的奇迹 或 其徐如林 或 不动如山,推荐洗,炮队参谋,true
+guide_oscar_main,oscar,主线,staff,侵略如火 或 不动如山,炮击新手·主力 或 新晋指挥官·战列,侵略如火 + 不动如山 + 钢铁巨兽 + 炮术长·主力,一发入魂 或 其徐如林 或 小小的奇迹,推荐洗,炮队参谋,true
+guide_antenna_os,antenna,大世界,either,一发入魂,炮击新手·主力 或 新晋指挥官·战列,侵略如火 + 一发入魂 + 钢铁巨兽 + 炮术长·主力,既定的命运 或 见敌必战 或 小小的奇迹 或 其徐如林 或 不动如山,推荐洗,可司令可参谋；初始池不含侵略如火,true
+guide_lime_os,lime,大世界,staff,一发入魂,炮击新手·主力 或 新晋指挥官·战列,侵略如火 + 一发入魂 + 钢铁巨兽 + 炮术长·主力,既定的命运 或 见敌必战 或 小小的奇迹 或 其徐如林 或 不动如山,推荐洗,炮队参谋,true
+guide_pound_none,pound,通用,commander,,,侵略如火 + 一发入魂 + 钢铁巨兽 + 炮术长·主力,既定的命运,不建议洗,初始天赋池限制导致优秀胚子难出现；技能评价较低,true
+guide_bishamaru_os,bishamaru,大世界,staff,侵略如火 或 王牌机师,航空新兵·空母 或 新晋指挥官·空母,侵略如火 + 王牌机师 + 苍穹猎手 + 空中杀手·空母,既定的命运 或 其徐如林 或 小小的奇迹 或 轮机长·空母,推荐洗,航队参谋,true
+guide_steel_general,steel,通用,commander,侵略如火 或 狼群之首,新人雷击士·潜艇 或 新晋指挥官·潜艇,侵略如火 + 狼群之首 + 沉默杀手 + 雷击长·潜艇,既定的命运 或 王牌指挥官·铁血,推荐洗,潜艇司令,true
+guide_takemaru_os,takemaru,大世界道中,commander,既定的命运 或 见敌必战,新人雷击士·巡洋 或 新晋指挥官·巡洋,侵略如火 + 中坚力量 + 王牌指挥官·重樱,水雷魂 或 雷击长·巡洋 或 既定的命运 或 见敌必战,谨慎洗,不泛用；仅提供巡洋司令思路,true
+guide_justice_low,justice,低耗,commander,小小的奇迹,新晋指挥官·白鹰,侵略如火 + 王牌指挥官·白鹰,不动如山 或 其徐如林 或 水雷魂 或 海上先锋,不建议洗,当前版本低耗需求较低,true
+guide_bunny_low,bunny,低耗,commander,侵略如火,炮击新手·驱逐 或 新晋指挥官·驱逐,侵略如火,不动如山 或 其徐如林 或 既定的命运 或 小小的奇迹 或 水雷魂 或 炮术长·驱逐 或 海上先锋,推荐洗,驱逐司令,true
+guide_eagle_os,eagle,大世界,staff,王牌机师,航空新兵·空母 或 新晋指挥官·空母,侵略如火 + 王牌机师 + 苍穹猎手,既定的命运 或 其徐如林 或 小小的奇迹 或 轮机长·空母,推荐洗,与毗沙丸同队时可放司令,true
+guide_edelweiss_general,edelweiss,通用,staff,侵略如火 或 狼群之首,新人雷击士·潜艇 或 新晋指挥官·潜艇,侵略如火 + 狼群之首 + 沉默杀手,既定的命运 或 无影手·潜艇,推荐洗,潜艇参谋,true
+guide_gral_none,gral,通用,staff,,,,,不建议洗,相较莫赫喵亏氧气,true
+guide_marble_none,marble,通用,either,,,,,不建议洗,,true
+guide_ark_os,ark,大世界,staff,王牌机师,航空新兵·空母 或 新晋指挥官·空母,侵略如火 + 王牌机师 + 苍穹猎手,既定的命运 或 其徐如林 或 小小的奇迹 或 轮机长·空母,推荐洗,与毗沙丸同队时可放司令,true
+guide_pepper_none,pepper,通用,either,,,,,不建议洗,,true
+guide_soup_low,soup,低耗,either,既定的命运,,,既定的命运,不建议洗,技能较弱,true
+guide_jiromaru_os,jiromaru,大世界,staff,王牌机师,航空新兵·空母 或 新晋指挥官·空母,侵略如火 + 王牌机师 + 苍穹猎手,既定的命运 或 其徐如林 或 小小的奇迹 或 轮机长·空母,推荐洗,与毗沙丸同队时可放司令,true
+guide_yoshimaru_low,yoshimaru,低耗,staff,侵略如火,炮击新手·驱逐 或 新晋指挥官·驱逐,侵略如火,不动如山 或 其徐如林 或 既定的命运 或 小小的奇迹 或 水雷魂 或 炮术长·驱逐 或 海上先锋,推荐洗,驱逐参谋,true
+guide_thunderstorm_gap,bishamaru,雷暴,either,,,,,攻略未覆盖,原攻略明确未讨论雷暴猫；沿用现有排行且不增加攻略结论,false

@@ -1,0 +1,16 @@
+{
+  "rule_version": "embryo-2026-10-06-v2",
+  "cases": [
+    {"name":"双关键彩加有效普通", "cat_id":"oscar", "initial":["special_fire","special_one_shot","gunnery_main_1"],"tier":"S","protected":true},
+    {"name":"战列巡洋混搭有效点", "cat_id":"oscar", "initial":["special_fire","command_cruiser_2","gunnery_main_1"],"tier":"S","protected":true},
+    {"name":"双彩附带经验天赋仍保留", "cat_id":"oscar", "initial":["special_fire","special_one_shot","special_new_star"],"tier":"A","protected":true},
+    {"name":"阵营航母用途", "cat_id":"bishamaru", "initial":["special_ace_pilot","command_faction_sakura_2","special_new_star"],"tier":"A","protected":false},
+    {"name":"水雷魂命运雷击专项", "cat_id":"takemaru", "initial":["reload_battleship_1","special_fate","special_torpedo_soul"],"tier":"A","protected":false},
+    {"name":"普通巡洋可用", "cat_id":"takemaru", "initial":["gunnery_cruiser_1","special_fate","torpedo_cruiser_2"],"tier":"B","protected":false},
+    {"name":"单火潜艇带机动", "cat_id":"steel", "initial":["command_submarine_1","helm_small_1","special_fire"],"tier":"B","protected":false},
+    {"name":"航速有用途不是废物", "cat_id":"lady", "initial":["special_wind"],"tier":"C","protected":false},
+    {"name":"仅经验无战斗用途", "cat_id":"lady", "initial":["special_new_star"],"tier":"备","protected":false},
+    {"name":"扫描不完整禁止淘汰", "cat_id":"oscar", "initial":["special_fire"],"tier":"待评","protected":false},
+    {"name":"固定路线单列", "cat_id":"drake", "initial":[],"tier":"固定","protected":false}
+  ]
+}

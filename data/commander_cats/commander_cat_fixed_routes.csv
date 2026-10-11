@@ -1,0 +1,50 @@
+cat_id,level,talent_ids,description
+drake,0,fixed_battle_readiness + helm_small_1,固定初始天赋
+drake,5,fixed_battle_readiness + helm_small_2,
+drake,10,fixed_battle_readiness + helm_small_2 + cannon_m_1,
+drake,15,fixed_battle_readiness + helm_small_3 + cannon_m_1,
+drake,20,fixed_battle_readiness + helm_small_3 + cannon_m_1 + special_fire,
+drake,25,fixed_battle_readiness + helm_small_3 + cannon_m_2 + special_fire,
+drake,30,fixed_battle_readiness + helm_small_3 + cannon_m_2 + special_fire + special_fate,固定毕业路线
+kidd,0,fixed_sail_banner + observation_vanguard_1,固定初始天赋
+kidd,5,fixed_sail_banner + observation_vanguard_2,
+kidd,10,fixed_sail_banner + observation_vanguard_2 + cannon_v_1,
+kidd,15,fixed_sail_banner + observation_vanguard_3 + cannon_v_1,
+kidd,20,fixed_sail_banner + observation_vanguard_3 + cannon_v_1 + special_fire,
+kidd,25,fixed_sail_banner + observation_vanguard_3 + cannon_v_2 + special_fire,
+kidd,30,fixed_sail_banner + observation_vanguard_3 + cannon_v_2 + special_fire + special_fate,固定毕业路线
+every,0,fixed_plunder_preparation + tempesta_observer_1,固定初始天赋
+every,5,fixed_plunder_preparation + tempesta_observer_2,
+every,10,fixed_plunder_preparation + tempesta_observer_2 + blue_sea_1,
+every,15,fixed_plunder_preparation + tempesta_observer_3 + blue_sea_1,
+every,20,fixed_plunder_preparation + tempesta_observer_3 + blue_sea_1 + special_fire,
+every,25,fixed_plunder_preparation + tempesta_observer_3 + blue_sea_2 + special_fire,
+every,30,fixed_plunder_preparation + tempesta_observer_3 + blue_sea_2 + special_fire + special_fate,固定毕业路线
+teach,0,fixed_bold_attempt + tempesta_observer_1,固定初始天赋
+teach,5,fixed_bold_attempt + tempesta_observer_2,
+teach,10,fixed_bold_attempt + tempesta_observer_2 + blue_sky_1,
+teach,15,fixed_bold_attempt + tempesta_observer_3 + blue_sky_1,
+teach,20,fixed_bold_attempt + tempesta_observer_3 + blue_sky_1 + special_fire,
+teach,25,fixed_bold_attempt + tempesta_observer_3 + blue_sky_2 + special_fire,
+teach,30,fixed_bold_attempt + tempesta_observer_3 + blue_sky_2 + special_fire + special_fate,固定毕业路线
+bella,0,special_wind + engine_small_1,固定初始天赋
+bella,5,special_wind + engine_small_2,
+bella,10,special_wind + engine_small_2 + cannon_v_1,
+bella,15,special_wind + engine_small_3 + cannon_v_1,
+bella,20,special_wind + engine_small_3 + cannon_v_1 + special_mountain,
+bella,25,special_wind + engine_small_3 + cannon_v_2 + special_mountain,
+bella,30,special_wind + engine_small_3 + cannon_v_2 + special_mountain + special_miracle,固定毕业路线
+robert,0,special_forest + helm_small_1,固定初始天赋
+robert,5,special_forest + helm_small_2,
+robert,10,special_forest + helm_small_2 + cannon_v_1,
+robert,15,special_forest + helm_small_3 + cannon_v_1,
+robert,20,special_forest + helm_small_3 + cannon_v_1 + special_mountain,
+robert,25,special_forest + helm_small_3 + cannon_v_2 + special_mountain,
+robert,30,special_forest + helm_small_3 + cannon_v_2 + special_mountain + special_fate,固定毕业路线
+bonny,0,fixed_battle_flag + engine_vanguard_1,固定初始天赋
+bonny,5,fixed_battle_flag + engine_vanguard_2,
+bonny,10,fixed_battle_flag + engine_vanguard_2 + cannon_v_1,
+bonny,15,fixed_battle_flag + engine_vanguard_3 + cannon_v_1,
+bonny,20,fixed_battle_flag + engine_vanguard_3 + cannon_v_1 + special_mountain,
+bonny,25,fixed_battle_flag + engine_vanguard_3 + cannon_v_2 + special_mountain,
+bonny,30,fixed_battle_flag + engine_vanguard_3 + cannon_v_2 + special_mountain + special_miracle,固定毕业路线

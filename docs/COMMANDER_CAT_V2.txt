@@ -1,4 +1,8 @@
-指挥猫重构：使用说明与 Windows 同步协议
+历史记录：指挥猫重构与 Windows 同步协议
+
+本文件保留历史设计过程，含旧目录、旧版本和旧技能计分说明。
+当前使用指南以 COMMANDER_CATS.md、SCORING.md、FLEET_PLANNING.md、DATA_AND_SYNC.md 为准。
+特别注意：当前技能覆盖按各项效果累加；编队有独立导入入口；存档直接位于 user_data/。
 
 已实现
 1. 初始天赋评级独立于旧培养模板，取已覆盖用途中的最高等级。
